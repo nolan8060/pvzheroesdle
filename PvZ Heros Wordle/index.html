@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y2BBG8K9EY"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-Y2BBG8K9EY');
+    </script>
+
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6337028915945089"
+         crossorigin="anonymous"></script>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PVZ Heroes Wordle - Daily Card Guessing Game</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Play Plants Vs Zombies Heroes Wordle! Guess the Plants vs Zombies Heroes card in as few tries as possible. Daily challenges for Classic, Plants and Zombies! If thats not enough the play Endless mode!">
+    <meta name="keywords" content="pvz heroes, pvz heroes wordle, wordle, plants vs zombies heroes, card game, puzzle game, daily challenge, guessing game">
+    <meta name="author" content="PVZ Heroes Wordle">
+    
+    <!-- Open Graph Meta Tags (for social media sharing) -->
+    <meta property="og:title" content="PVZ Heroes Wordle - Daily Card Guessing Game">
+    <meta property="og:description" content="Guess the PvZ Heroes card! Daily puzzle game with Classic, Plants, Zombies, and Endless modes.">
+    <meta property="og:image" content="https://pvzherosdle.com/images/Logo.png">
+    <meta property="og:url" content="https://pvzherosdle.com">
+    <meta property="og:type" content="website">
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="PVZ Heroes Wordle">
+    <meta name="twitter:description" content="Guess the PvZ Heroes card! Daily puzzle game.">
+    <meta name="twitter:image" content="https://pvzherosdle.com/images/Logo.png">
+    
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>  
+
+    <!-- Info Popup Modal -->
+    <div id="infoPopup" class="info-popup-overlay" onclick="closeInfoPopup()">
+        <div class="info-popup-content" onclick="event.stopPropagation()">
+            <button class="info-close-btn" onclick="closeInfoPopup()">✕</button>
+            
+            <h1 class="info-title">About PvZ Heroes Wordle</h1>
+            
+            <div class="info-section">
+                <h2>How to Play</h2>
+                <p>Guess the PvZ Heroes card in as few tries as possible!</p>
+                <ul>
+                    <li><span class="color-green">Green</span> = Correct attribute</li>
+                    <li><span class="color-yellow">Yellow</span> = Partially correct (for tribes/traits)</li>
+                    <li><span class="color-red">Red</span> = Incorrect attribute</li>
+                </ul>
+            </div>
+
+            <div class="info-section">
+                <h2>Game Modes</h2>
+                <p><strong>Classic:</strong> Guess from all cards (Plants & Zombies)</p>
+                <p><strong>Plants:</strong> Guess only from Plant cards</p>
+                <p><strong>Zombies:</strong> Guess only from Zombie cards</p>
+                <p><strong>Endless:</strong> Play unlimited random cards - no daily limit!</p>
+            </div>
+
+            <div class="info-section">
+                <h2>Hard Mode</h2>
+                <p>When enabled, any revealed hints (green or yellow) must be used in all subsequent guesses.</p>
+            </div>
+
+            <div class="info-section">
+                <h2>Disclaimer</h2>
+                <p>All card images, icons, and game assets are the property of PopCap Games and Electronic Arts. Plants vs. Zombies Heroes is a trademark of Electronic Arts Inc.</p>
+                <p>This project is a fan-made tool and is not affiliated with or endorsed by PopCap Games or Electronic Arts. All rights reserved.</p>
+                <p>This project is intended for personal, non-commercial use and may fall under fair use guidelines.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page Container -->
+    <div class="container">
+        <div class="title">
+            <img src="images/Logo.png" alt="PvZ Heroes Wordle">
+        </div>
+
+        <!-- Game Mode Buttons -->
+        <div class="menu-buttons">
+            <div class="menu-btn-combo" onclick="startGame('classic')">
+                <img src="images/classic_icon.png" class="menu-icon classic-icon" alt="Classic" onerror="this.style.display='none'">
+                <button class="menu-btn">
+                    <span>Classic</span>
+                </button>
+            </div>
+            <div class="menu-btn-combo" onclick="startGame('plants')">
+                <img src="images/plant_icon.png" class="menu-icon plant-icon" alt="Plants" onerror="this.style.display='none'">
+                <button class="menu-btn">
+                    <span>Plants</span>
+                </button>
+            </div>
+            <div class="menu-btn-combo" onclick="startGame('zombies')">
+                <img src="images/zombie_icon.png" class="menu-icon zombie-icon" alt="Zombies" onerror="this.style.display='none'">
+                <button class="menu-btn">
+                    <span>Zombies</span>
+                </button>
+            </div>
+            <div class="menu-btn-combo" onclick="startGame('endless')">
+                <img src="images/endless.png" class="menu-icon endless-icon" alt="Endless" onerror="this.style.display='none'">
+                <button class="menu-btn">
+                    <span>Endless</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Guess Bar -->
+        <div class="guess-bar" id="guessBar">
+            <!-- Message Box -->
+            <div id="messageBox" class="message-box"></div>
+            
+            <div class="guess-wrapper">
+                <input type="text"
+                       id="guessInput"
+                       placeholder="Guess a card"
+                       autocomplete="off" />
+                <div id="autocompleteDropdown"></div>
+                <button class="guess-button" onclick="guess()">
+                    <img src="images/Guess.png"
+                         alt="Submit Guess"
+                         class="guess-img">
+                </button>
+            </div>
+            
+            <!-- Hard Mode Button -->
+            <div class="top-ui">
+                <button id="hardModeBtn"
+                        class="hard-mode-btn"
+                        onclick="toggleHardMode()"
+                        data-tooltip="Easy Mode: No restrictions for guessing">
+                    Easy Mode
+                </button>
+            </div>
+        </div>
+
+        <!-- Box Container -->
+        <div id="boxContainer" style="margin-top: 40px;"></div>
+
+        <!-- Bottom Center Icons -->
+        <div class="bottom-left-icons" id="bottomIcons">
+            <a href="https://forms.gle/2vfhpJfz1BAekHjN9" target="_blank" class="icon-button question-mark" title="Feedback & Bug Reports">
+                <img src="images/questionmark.webp" alt="Feedback">
+            </a>
+            
+            <a href="https://www.youtube.com/@turtletopgaming" target="_blank" class="icon-button" title="YouTube Channel">
+                <img src="images/yt.png" alt="YouTube">
+            </a>
+            
+            <button class="icon-button" onclick="showInfoPopup()" title="About">
+                <img src="images/info.webp" alt="Info">
+            </button>
+        </div>
+    </div>
+
+    <!-- CSV Parser -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+
+    <!-- Game Script -->
+    <script src="game.js"></script>
+
+</body>
+</html>

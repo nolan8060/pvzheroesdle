@@ -1,0 +1,288 @@
+name,icon,class,cost,strength,health,tribe,trait,type,rarity,set,description
+Abracadaver,AbracadaverH.webp,Crazy,3,3,3,"Mustache, Pet",Gravestone,Zombie,Super-Rare,Premium,"Keeps forgetting that the magic word is ""Please."""
+Acid Rain,Acid_RainH.webp,Beasty,1,,,Superpower,,Trick,Super-Rare,Superpower,"Strong enough to destroy a Plant, but pH-balanced for a Zombie."
+Aerobics Instructor,Aerobics_InstructorH.webp,Crazy,2,2,3,Dancing,,Zombie,Super-Rare,Premium,Aerobics really bring the dead to life.
+Alien Ooze,Alien_OozeH.webp,Beastly,3,,,Monster,,Trick,Uncommon,Galactic,Oozin' for a bruisin!
+All-Star Zombie,All-Star_ZombieH.webp,Hearty,5,4,6,Sports,"Frenzy, Untrickable, Armored",Zombie,Super-Rare,Premium,Gives 110% on the field. Has no idea what a football is.
+Ancient Vimpire,Ancient_VimpireH.webp,Beastly,4,3,4,"Imp, Monster","Frenzy, Amphibious",Zombie,Super-Rare,Colossal,Vimpirism - an ancient curse evolved from the dawn of time.
+Area 22,Area_22H.webp,Beastly,3,,,Science,Frenzy,Zombie,Super-Rare,Galactic,"""Zombies from outer space? What an absurd conspiracy theory! Now move along. Nothing to see here."" - Dr. Zomboss"
+Arm Wrestler,Arm_WrestlerH.webp,Hearty,1,2,2,Sports,,Zombie,Uncommon,Premium,"Lots of carbs, lots of protein, and five brain shakes a day."
+B-flat,B-flatH.webp,Beastly,3,,,Dancing,,Trick,Uncommon,Premium,Just wait until you C-Sharp.
+Backup Dancer,Backup_DancerH.webp,Crazy,1,1,1,"Dancing, Mustache",,Zombie,Basic,Common,Spent six years perfecting his art at the Chewliard School for the Performing Arts.
+Backyard Bounce,Backyard_BounceH.webp,Sneaky,3,,,"Party, Sports",Bounce,Trick,Uncommon,Premium,Zombies love trampolines. Not everyone knows that.
+Bad Moon Rising,Bad_Moon_RisingH.webp,Brainy,7,,,,,Trick,Event,Event,Sometimes a full moon turns bad dreams into horrible nightmares.
+Barrel of Barrels,Barrel_of_BarrelsH.webp,Sneaky,2,,,Barrel,"Deadly, Conjure",Trick,Uncommon,Colossal,"If you put a container in another container, you'll have twice the storage space!"
+Barrel of Deadbeards,Barrel_of_DeadbeardsH.webp,Crazy,2,0,1,"Pirate, Barrel",,Zombie,Legendary,Premium,"No monkeys, just Zombies."
+Barrel Roller Zombie,Barrel_Roller_ZombieH.webp,Sneaky,4,3,3,"Pirate, Barrel",Deadly,Zombie,Rare,Premium,The second-most affordable way to transport Imps.
+Baseball Zombie,Baseball_ZombieH.webp,Hearty,1,1,1,Sports,,Zombie,Basic,Common,Home run. Running for your home. It's all the same to him.
+Beam Me Up,Beam_Me_UpH.webp,Brainy,2,,,Science,,Trick,Uncommon,Galactic,A sure way to get Space Cadet's attention.
+Binary Stars,Binary_StarsH.webp,Crazy,5,3,3,Dancing,Gravestone,Zombie,Legendary,Galactic,"He's a Gemini and so is she. Which explains so much, right?"
+Biodome Botanist,Biodome_BotanistH.webp,Beastly,2,2,3,"Mustache, Science",,Zombie,Rare,Galactic,"Growing Plants in Space? Some of his fellow Zombies think he's crazy, but others appreciate the effort."
+Black Hole,Black_HoleH.webp,Hearty,1,,,,,Environment,Super-Rare,Galactic,Plants usually like being planted in holes. Black holes? Not so much.
+Blowgun Imp,Blowgun_ImpH.webp,Sneaky,5,3,4,"Pirate, Imp","Deadly, Strikethrough, Evolution, Bounce",Zombie,Rare,Colossal,"Much more successful than his cousin, the Inhalegun Imp."
+Bobblehead,BobbleheadH.webp,Crazy,3,3,3,"Dancing, Mustache",Evolution,Zombie,Legendary,Triassic,"He offers a special deal: Two of his heads for one of yours. Anyway you slice it, you still come out a head."
+Bonus Track Buckethead,Bonus_Track_BucketheadH.webp,Hearty,4,4,4,Dancing,Armored,Zombie,Event,Event,He put all his favorite songs on that mixtape. If only he could find the right Zombie to give it to.
+Brain Vendor,Brain_VendorH.webp,Brainy,3,2,1,"Gourmet, Sports",,Zombie,Uncommon,Premium,Sells only 100% organic brains.
+Brute Strength,Brute_StrengthH.webp,Crazy,1,,,Superpower,,Trick,Super-Rare,Superpower,Is there any other kind?
+Buckethead,BucketheadH.webp,Hearty,3,3,4,Professional,Armored,Zombie,Uncommon,Premium,"Why a bucket? Well, gosh, in this economy, why NOT?"
+Bungee Plumber,Bungee_PlumberH.webp,Crazy,1,,,"Professional, Mustache",,Trick,Basic,Common,Likes: Plumbing and adventure sports. Dislikes: Belts.
+Buried Treasure,Buried_TreasureH.webp,Sneaky,1,2,2,"Pirate, Barrel","Fusion, Conjure",Zombie,Rare,Triassic,Neptuna knew only one way to motivate an army of invading zombie pirates. Tell them about the secret treasure.
+Cakesplosion,CakesplosionH.webp,Crazy,4,,,"Imp, Party",,Trick,Uncommon,Premium,4 eggs. 2 cups flour. 10 sticks TNT.
+Camel Crossing,Camel_CrossingH.webp,Hearty,1,,,"History, Pet",,Trick,Uncommon,Premium,"Camels - they're filthy, ill-tempered animals that'll spit on you just for fun. But Zombies love 'em all the same."
+Captain Deadbeard,Captain_DeadbeardH.webp,Crazy,3,4,3,"Mustache, Pirate",,Zombie,Token,Token,Yo ho ho! It's a pirate's unlife for him!
+Captain Flameface,Captain_FlamefaceH.webp,Sneaky,3,2,4,"Mustache, Pirate",Strikethrough,Zombie,Event,Event,"You get your beard caught in the toaster ONE time, and it's all anyone can talk about..."
+Cardboard Robot Zombie,Cardboard_Robot_ZombieH.webp,Brainy,1,1,1,Science,,Zombie,Common,Basic,He's Rustbolt's biggest fan.
+Carried Away,Carried_AwayH.webp,"Sneaky, Brainy",1,,,"Party, Superpower",Bonus Attack,Trick,Legendary,Premium,It's just Super Brainz' way of sharing the wonder of flight with his fellow Zombies.
+Cat Lady,Cat_LadyH.webp,Beastly,1,0,3,Pet,,Zombie,Super-Rare,Premium,The cat on the left is a Z-Tube celebrity.
+Celestial Custodian,Celestial_CustodianH.webp,Hearty,4,3,4,"Professional, Mustache",,Zombie,Uncommon,Galactic,"Don't call him a ""Space Janitor."" He's a ""Celestial Custodian"" and darn proud of it."
+Cell Phone Zombie,Cell_Phone_ZombieH.webp,Brainy,2,1,1,Professional,Draw,Zombie,Uncommon,Premium,Hang on - he's got to take this.
+Cheese Cutter,Cheese_CutterH.webp,Beastly,1,2,2,"Gourmet, Mustache",Conjure,Zombie,Super-Rare,Galactic,"Is that the exquisite scent of an aged Camembert, or just rotting flesh?"
+Chimney Sweep,Chimney_SweepH.webp,Brainy,1,2,1,Professional,,Zombie,Uncommon,Premium,It's a growth industry.
+Chum Champion,Chum_ChampionH.webp,Hearty,5,4,4,"Sports, History",Evolution,Zombie,Legendary,Triassic,"The Retiarius gladiator was classically armed with a trident, a net, and a 10-day-old fish."
+Coffee Zombie,Coffee_ZombieH.webp,Hearty,6,5,4,"Gourmet, Mustache",Frenzy,Zombie,Super-Rare,Premium,He's been trying to cut back.
+Cone Zone,Cone_ZoneH.webp,Hearty,2,,,Professional,,Environment,Uncommon,Galactic,"You are about to enter another dimension. A dimension not only of sight and sound, but of cones."
+Conehead,ConeheadH.webp,Hearty,2,2,2,Professional,Armored,Zombie,Basic,Common,Almost went out with a lampshade on his head. Thought better of it.
+Conga Zombie,Conga_ZombieH.webp,Crazy,2,2,2,"Dancing, Barrel",Gravestone,Zombie,Uncommon,Premium,Important Note: The fruit on her hat is made of plastic.
+Copter Commando,Copter_CommandoH.webp,Brainy,5,6,5,"Science, Imp",,Zombie,Uncommon,Colossal,Refuses to fly over water due to a severe case of aquaphobia.
+Cosmic Dancer,Cosmic_DancerH.webp,Crazy,4,2,3,Dancing,"Overshoot, Conjure",Zombie,Rare,Galactic,"Across the cosmos, the passion for dance is the only universal language."
+Cosmic Imp,Cosmic_ImpH.webp,Sneaky,3,1,1,Imp,"Conjure, Deadly",Zombie,Rare,Galactic,"When he gazes out at the stars, he feels small. Because he's an Imp."
+Cosmic Scientist,Cosmic_ScientistH.webp,Brainy,2,1,2,Science,"Conjure, Bullseye",Zombie,Rare,Galactic,He has no idea what's in the beakers. He just likes to mix them together until they go BOOM!
+Cosmic Sports Star,Cosmic_Sports_StarH.webp,Hearty,3,2,2,Sports,Conjure,Zombie,Rare,Galactic,He's been named Most Valuable Zombie of the Galaxy two years in a row!
+Cosmic Yeti,Cosmic_YetiH.webp,Beastly,4,3,3,"Pet, Monster","Conjure, Bounce",Zombie,Rare,Galactic,"He's hoping they name a constellation after him. ""The Big Yeti"" does have a ring to it."
+Cryo-Brain,Cryo-BrainH.webp,Brainy,2,,,"Gourmet, Science",,Trick,Uncommon,Galactic,Putting brains on ice is the best way to keep them fresh. Ask any Zombie.
+Cryo-Yeti,Cryo-YetiH.webp,Sneaky,5,3,4,"Pet, Monster","Gravestone, Freeze",Zombie,Legendary,Galactic,"Freezing Plants in the far reaches of Space is not what he'd imagined he'd spend his life doing. But as the old Yeti saying goes, ""When life hands you snow, you make snow cones."""
+Cuckoo Zombie,Cuckoo_ZombieH.webp,Crazy,2,4,1,Pet,,Zombie,Basic,Common,He always knows what time it is. CRAZY TIME!
+Cursed Gargolith,Cursed_GargolithH.webp,Sneaky,6,7,6,"Gargantuar, Monster",Gravestone,Zombie,Super-Rare,Colossal,The lost temples of Hollow Earth were mysterious and inviting. Until they started to move.
+Cut Down to Size,Cut_Down_to_SizeH.webp,Brainy,1,,,Superpower,,Trick,Super-Rare,Superpower,"""The tallest blade of grass is the first to get cut. Braaainz!"" - Ancient Zombie Proverb"
+Cyborg Zombie,Cyborg_ZombieH.webp,Beastly,2,3,2,Science,"Hunt, Conjure",Zombie,Super-Rare,Galactic,He'll be back.
+Dance Off,Dance_OffH.webp,Crazy,1,,,"Dancing, Superpower",,Trick,Super-Rare,Superpower,"You put your right foot in! No, wait, you might need that."
+Deep Sea Gargantuar,Deep_Sea_GargantuarH.webp,Beastly,6,6,6,"Gargantuar, Monster","Amphibious, Hunt",Zombie,Super-Rare,Premium,"Has every single issue of Deep Sea Quarterly, but rarely has time to read them."
+Defensive End,Defensive_EndH.webp,Hearty,6,6,5,"Sports, Gargantuar",Armored,Zombie,Event,Event,Someone once told him the best defense is a good offence. He disagrees. Da fence he like best is da one he SMASH through.
+Disco Dance Floor,Disco_Dance_FloorH.webp,Crazy,2,0,3,"Dancing, Science","Fusion, Overshoot",Zombie,Rare,Triassic,The Triassic Invasion brought the very best of Zombie culture: Disco.
+Disco Zombie,Disco_ZombieH.webp,Crazy,3,3,1,Dancing,,Zombie,Basic,Common,Disco is undead.
+Disco-Naut,Disco-NautH.webp,Crazy,1,2,1,Dancing,Bullseye,Zombie,Super-Rare,Galactic,Nothing focuses your aim like the super-sick wailing of a space keytar solo.
+Disco-Tron 3000,Disco-Tron_3000H.webp,Crazy,6,5,5,"Dancing, Science",Gravestone,Zombie,Super-Rare,Premium,A fully weaponized jukebox.
+Dog Walker,Dog_WalkerH.webp,Beastly,1,2,2,Pet,Hunt,Zombie,Uncommon,Premium,"Is the Zombie walking the dog, or is the dog walking the Zombie? Hard to say."
+Dolphin Rider,Dolphin_RiderH.webp,Beastly,3,3,2,Pet,Amphibious,Zombie,Common,Basic,The dolphin is also a Zombie.
+Dolphinado,DolphinadoH.webp,Sneaky,1,,,"Pet, Superpower",Bounce,Trick,Super-Rare,Superpower,Weather report calls for afternoon tornados with a 75% chance of sea mammals.
+Dr. Spacetime,Dr._SpacetimeH.webp,Sneaky,2,1,5,"Science, History",Conjure,Zombie,Super-Rare,Galactic,He insists it's more than a screwdriver. Much more.
+Drum Major,Drum_MajorH.webp,Brainy,4,4,4,"Dancing, Sports",,Zombie,Common,Basic,Recently promoted from Drum Minor.
+Duckstache,DuckstacheH.webp,Brainy,3,3,2,"Pet, Mustache","Conjure, Evolution",Zombie,Super-Rare,Triassic,"Determined to find every Mustache Monument in Hollow Earth, Neptuna brought in the experts."
+Ducky Tube Zombie,Ducky_Tube_ZombieH.webp,Sneaky,1,1,2,"Party, Pet",Amphibious,Zombie,Super-Rare,Galactic,"Zombie Ducky, joy of joys. When it squeezes, you make noise!"
+Electrician,ElectricianH.webp,Brainy,3,2,3,"Mustache, Science","Gravestone, Bonus Attack",Zombie,Super-Rare,Premium,He charges for the full hour.
+Electrobolt,ElectroboltH.webp,Crazy,1,,,Superpower,,Trick,Super-Rare,Superpower,"Ever get zapped by static electricity? It's like that, times a bazillion."
+Energy Drink Zombie,Energy_Drink_ZombieH.webp,Beasty,2,1,1,"Gourmet, Sports",Frenzy,Zombie,Event,Event,He can quit any time he wants.
+Escape Through Time,Escape_Through_TimeH.webp,Hearty,2,,,"History, Science",Conjure,Trick,Rare,Galactic,"Possible side effects include: the creation of a temporal paradox, the unraveling of the fabric of reality, erasing your entire existence, a mild foot rash."
+Eureka,EurekaH.webp,"Brainy, Crazy",1,,,"Mustache, Science, Superpower",Conjure,Trick,Legendary,Premium,"Professor Brainstorm's ideas are brilliant... totally random, but brilliant."
+Evaporate,EvaporateH.webp,Beasty,1,,,Superpower,Draw,Trick,Super-Rare,Superpower,"Did you know that Plants are 62 percent water? Well, not any more."
+Evolutionary Leap,Evolutionary_LeapH.webp,Brainy,2,,,History,Draw,Trick,Super-Rare,Colossal,"When Dr. Zomboss sent Meteor Z and Huge-Gigantacus from space, they smashed a tunnel to the center of the Earth. There, Plants and Zombies had evolved into insane new forms."
+Excavator Zombie,Excavator_ZombieH.webp,Sneaky,3,4,1,"Professional, Mustache","Gravestone, Bounce",Zombie,Super-Rare,Triassic,"He loved finding dinosaur fossils, until the dinosaurs started finding him."
+Exploding Fruitcake,Exploding_FruitcakeH.webp,Crazy,2,,,"Gourmet, Party",Conjure,Trick,Event,Event,"Once you get past all the dynamite and bombs, fruitcakes actually contain at least 5% Fruit."
+Exploding Imp,Exploding_ImpH.webp,Crazy,3,6,1,Imp,Gravestone,Zombie,Rare,Premium,You could say he's an IMPlosives expert.
+Extinction Event,Extinction_EventH.webp,Beastly,2,,,History,,Trick,Super-Rare,Colossal,Sometimes the evolutionary tree withers at the root.
+Final Mission,Final_MissionH.webp,Crazy,2,,,"Science, Barrel",,Trick,Rare,Galactic,The round-trip ticket is the same price as the one-way.
+Fire Rooster,Fire_RoosterH.webp,Sneaky,2,3,1,Pet,,Zombie,Event,Event,"According to the Chinese Zodiac, it's the year of the Fire Rooster. Crispy fried Plants for all your Zombies!"
+Firefighter,FirefighterH.webp,Sneaky,4,5,5,Professional,"Gravestone, Bounce",Zombie,Uncommon,Premium,He's a little too eager to rescue kittens from trees.
+Fireworks Zombie,Fireworks_ZombieH.webp,Crazy,3,3,4,"Professional, Party",,Zombie,Super-Rare,Premium,Want to clear some mushrooms? Fire works.
+Fishy Imp,Fishy_ImpH.webp,Sneaky,2,3,1,"Imp, Pet",Amphibious,Zombie,Basic,Common,Throws the *best* pool parties.
+Flag Zombie,Flag_ZombieH.webp,Hearty,2,1,3,Professional,,Zombie,Uncommon,Premium,He's not patriotic; he just likes fabric suspended from sticks.
+Flamenco Zombie,Flamenco_ZombieH.webp,Crazy,5,3,1,Dancing,,Zombie,Basic,Common,"Also enjoys dancing the rumba, tango, and the Hokey Pokey."
+Foot Soldier Zombie,Foot_Soldier_ZombieH.webp,Crazy,5,3,4,Professional,,Zombie,Uncommon,Premium,Each Foot Soldier Zombie shall be issued one (1) combat foot.
+Fraidy Cat,Fraidy_CatH.webp,Beasty,1,2,2,Pet,,Zombie,Event,Event,What's a black cat's favorite color? Purrrrr-ple.
+Frankentuar,FrankentuarH.webp,Crazy,5,5,7,"Monster, Gargantuar",Splash Damage,Zombie,Event,Event,"IT'S ALIVE! IT'S ALI-I-I-IVE! Ok, strictly speaking, it's not alive."
+Frosty Mustache,Frosty_MustacheH.webp,Sneaky,2,,,Mustache,"Freeze, Conjure",Trick,Uncommon,Galactic,So stylish! So cool!
+Frozen Tundra,Frozen_TundraH.webp,"Sneaky, Crazy",1,,,"Pet, Monster, Superpower",Freeze,Trick,Legendary,Premium,Brain Freeze has a knack for making the Plants chill out.
+Fun-Dead Raiser,Fun-Dead_RaiserH.webp,Brainy,3,,,Party,Draw,Trick,Common,Basic,Pledge now and get two Zombies plus a free tote bag.
+Gadget Scientist,Gadget_ScientistH.webp,Brainy,5,3,3,Science,Bonus Attack,Zombie,Rare,Premium,Wishes the Mad Chemist would stop copying his hair style.
+Galvanize,GalvanizeH.webp,Beasty,1,,,Superpower,,Trick,Super-Rare,Superpower,To protect and serve... brains.
+Gargantuar Mime,Gargantuar_MimeH.webp,Brainy,5,5,6,"Mime, Gargantuar",Bonus Attack,Zombie,Legendary,Colossal,"The Gargantuar Mime groans like any other zombie. He just does it silently, and in French."
+Gargantuar-Throwing Gargantuar,Gargantuar-Throwing_GargantuarH.webp,Beastly,7,6,6,"Pirate, Gargantuar",,Zombie,Legendary,Premium,"The ultimate, epic, last, absolutely final conclusion to the Zombie-throwing Zombie saga. ...or is it?"
+Gargantuar-Throwing Imp,Gargantuar-Throwing_ImpH.webp,Crazy,4,1,2,Imp,,Zombie,Event,Event,"When lifting a Gargantuar, always bend at the knees. He learned this the hard way."
+Gargantuars Feast,Gargantuars_FeastH.webp,Crazy,11,,,"Gourmet, Gargantuar",,Trick,Legendary,Premium,This party doesn't make reservations.
+Gargologist,GargologistH.webp,Hearty,2,2,3,Science,,Zombie,Event,Event,"After years of studying Gargantuars in the wild, she's dedicated herself to telling the world they're just misunderstood gentle giants. So far, nobody's buying it."
+Gas Giant,Gas_GiantH.webp,Crazy,6,5,5,"Monster, Gargantuar",,Zombie,Super-Rare,Galactic,There isn't a fart joke he hasn't heard.
+Genetic Experiment,Genetic_ExperimentH.webp,Hearty,1,2,1,"Science, Barrel",,Zombie,Super-Rare,Galactic,Pickled Zombie is the best kind of Zombie.
+Gentleman Zombie,Gentleman_ZombieH.webp,Brainy,3,1,4,"Mustache, Party",Gravestone,Zombie,Rare,Premium,"Life comes and goes, but proper manners are forever."
+Gizzard Lizard,Gizzard_LizardH.webp,Crazy,3,3,3,"Pet, Monster",Evolution,Zombie,Rare,Colossal,He's the missing skink.
+Goat,GoatH.webp,Beastly,0,1,1,Pet,,Zombie,Uncommon,Triassic,Hungry... Smelly... A lot like a Zombie but with 100% more goat.
+Going Viral,Going_ViralH.webp,Hearty,3,,,,"Frenzy, Draw",Trick,Event,Event,"Though Zombies can't get ill, this plague is totally sick."
+Grave Robber,Grave_RobberH.webp,Crazy,1,2,1,"Mustache, Pirate",Bullseye,Zombie,Super-Rare,Triassic,Why not rob graves? They're not going to miss it. It's not like the dead are rising up or anything.
+Graveyard,GraveyardH.webp,Sneaky,1,,,,Gravestone,Environment,Uncommon,Galactic,Super Brainz always wanted a house with a nice yard.
+Hail-a-Copter,Hail-a-CopterH.webp,Brainy,6,,,"Science, Imp",,Trick,Rare,Premium,Refuses to fly over water due to a severe case of aquaphobia.
+Haunting Ghost,Haunting_GhostH.webp,Beastly,2,2,1,Monster,Amphibious,Zombie,Uncommon,Colossal,Is he a zombie? Is he a ghost? He refuses to be pigeonholed.
+Haunting Zombie,Haunting_ZombieH.webp,Beastly,2,2,1,Monster,Conjure,Zombie,Uncommon,Premium,He doesn't realize he would look even scarier without the spooky ghost costume...
+Headstone Carver,Headstone_CarverH.webp,Sneaky,1,1,3,"Professional, Mustache",,Zombie,Uncommon,Premium,His epitaphs have been published on headstones around the world.
+Healthy Treat,Healthy_TreatH.webp,Hearty,1,,,Gourmet,,Trick,Uncommon,Colossal,Great for Zombie Health. Like a vitamin only sweeter.
+Heroic Health,Heroic_HealthH.webp,Hearty,1,,,Superpower,Heal,Trick,Super-Rare,Superpower,A healthy Hero is a happy Hero.
+Hippity Hop Gargantuar,Hippity_Hop_GargantuarH.webp,Crazy,5,6,5,"Pet, Gargantuar",,Zombie,Event,Event,"Sometimes, what has been seen... can't be unseen. This is one of those times."
+Hot Dog Imp,Hot_Dog_ImpH.webp,Sneaky,2,2,2,"Gourmet, Imp",Strikethrough,Zombie,Uncommon,Premium,"He was THIS close to wearing the chicken costume, but darn it, Team Mascot Imp called it first."
+Hover-Goat 3000,Hover-Goat_3000H.webp,Beasty,3,1,3,"Science, Pet","Amphibious, Bounce",Zombie,Event,Event,The future is Hovering. The future is Radical. The future is Goat.
+Hunting Grounds,Hunting_GroundsH.webp,Beastly,2,,,"History, Pet",Hunt,Environment,Super-Rare,Triassic,"Are the Zombies hunting dinosaurs, or are the dinosaurs hunting them?"
+Ice Moon,Ice_MoonH.webp,Sneaky,1,,,Superpower,"Strikethrough, Freeze",Environment,Super-Rare,Superpower,Be sure to pack a warm sweater.
+Ice Pirate,Ice_PirateH.webp,Sneaky,2,3,1,Pirate,"Gravestone, Freeze",Zombie,Uncommon,Galactic,"You wouldn't believe how many brains a chunk of space ice goes for on a black market. Let's just say, she's rolling in gray matter."
+Imp,ImpH.webp,Sneaky,1,1,1,Imp,,Zombie,Basic,Common,He's proficient in Zombie judo and Zombie karate. He also plays the Melodica.
+Imp Commander,Imp_CommanderH.webp,Sneaky,3,2,4,"Pirate, Imp","Gravestone, Draw",Zombie,Rare,Premium,He's got a bit of a Napoleon Complex. Obviously.
+Imp-Throwing Gargantuar,Imp-Throwing_GargantuarH.webp,Crazy,5,5,5,"Pirate, Gargantuar",,Zombie,Rare,Premium,Seems like a better idea than a Gargantuar-Throwing Imp.
+Imp-Throwing Imp,Imp-Throwing_ImpH.webp,Sneaky,2,1,3,Imp,,Zombie,Event,Event,But where is the Imp-Throwing-Imp-Throwing-Imp?? We have to go deeper...
+Impfinity Clone,Impfinity_CloneH.webp,"Sneaky, Crazy",1,2,1,Imp,Amphibious,Zombie,Token,Token,"An IMPerfect copy, but it'll do."
+Imposter,ImposterH.webp,Sneaky,1,2,1,"Mustache, Imp",Conjure,Zombie,Event,Event,It's IMPossible to tell who he really is.
+In-Crypted,In-CryptedH.webp,Sneaky,1,,,Superpower,"Draw, Gravestone",Trick,Super-Rare,Superpower,"Requires eight characters, one upper case, a number, and the letter Z."
+Interdimensional Zombie,Interdimensional_ZombieH.webp,Brainy,1,2,2,Science,,Zombie,Legendary,Galactic,"In a parallel dimension, this zombie is a Space Pirate. In another he's a Trash Can Zombie. Turns out, little choices in life can make a big difference."
+Intergalactic Warlord,Intergalactic_WarlordH.webp,Hearty,5,2,2,"Mustache, Pirate",,Zombie,Legendary,Galactic,"In space Zombie circles, he's a very powerful figure. Just don't talk about him in front of Huge-Gigantacus. There's some jealousy there."
+Interstellar Bounty Hunter,Interstellar_Bounty_HunterH.webp,Beastly,4,4,4,"Science, Pirate","Frenzy, Hunt",Zombie,Legendary,Galactic,"If you have a bounty on your head, she won't stop until she eats your brains. It's not personal. It's just business."
+Iron Boarder,Iron_BoarderH.webp,Brainy,1,2,3,"Sports, Imp, Superpower",Bullseye,Zombie,Super-Rare,Superpower,"Working for a Huge-Gigantacus isn't the worst job he's ever had. It comes with a 401Z plan, which is more than what most Zombie employers offer."
+Jester,JesterH.webp,Crazy,3,1,5,"Dancing, Party",Gravestone,Zombie,Rare,Premium,The joke's on you!
+Jurassic Fossilhead,Jurassic_FossilheadH.webp,Hearty,2,2,3,"Professional, History",Untrickable,Zombie,Super-Rare,Colossal,"For him, Fossilheading isn't just a hobby. It's a career."
+Kangaroo Rider,Kangaroo_RiderH.webp,Beastly,4,4,4,"Imp, Pet",Bounce,Zombie,Rare,Premium,"Sure, it's a bumpy ride, but it beats walking. Have you seen an Imp's legs?"
+Killer Whale,Killer_WhaleH.webp,Beastly,2,2,1,Pet,"Fusion, Amphibious",Zombie,Rare,Triassic,"Flooding Hollow Earth with water from above, Neptuna attacked with flying whale cavalry. Or really, falling whale cavalry."
+King of the Grill,King_of_the_GrillH.webp,Beasty,6,6,6,"Gourmet, Gargantuar","Frenzy, Conjure",Zombie,Event,Event,"Chillin' beside the ol' backyard grill, cookin' up some brains, hangin' with his zombies... that's the good unlife."
+Kitchen Sink Zombie,Kitchen_Sink_ZombieH.webp,Brainy,6,3,6,"Professional, Mustache","Bullseye, Frenzy, Anti-Hero, Armored, Overshoot",Zombie,Event,Event,"He's got everything but the - no wait, he's got that too."
+Kite Flyer,Kite_FlyerH.webp,Brainy,3,1,3,"Science, History","Draw, Gravestone",Zombie,Rare,Premium,The naysayers were right. Flying a kite in a lightning storm WAS a real bright idea.
+Knight of the Living Dead,Knight_of_the_Living_DeadH.webp,Hearty,7,5,5,"History, Sports",Armored,Zombie,Rare,Premium,He's both secretary and treasurer for the Knights of the Square Table.
+Knockout,KnockoutH.webp,Hearty,3,,,,,Trick,Super-Rare,Triassic,No one knows where the giant green hand and the giant purple hand comes from. What will happen when they clap?
+Landscaper,LandscaperH.webp,Hearty,3,2,3,"Professional, Mustache",Gravestone,Zombie,Super-Rare,Premium,"If barren rock and wilted Plants are what you want, he's the landscaper for the job."
+Laser Base Alpha,Laser_Base_AlphaH.webp,Sneaky,3,,,Science,"Deadly, Strikethrough",Environment,Super-Rare,Galactic,Zombies with LASERS. What could possibly go wrong?
+Leftovers,LeftoversH.webp,Hearty,1,,,"Gourmet, Pet",,Zombie,Uncommon,Triassic,Zombies love them almost as much as brains.
+Leprechaun Imp,Leprechaun_ImpH.webp,Brainy,1,2,2,Imp,,Zombie,Event,Event,"When he offers to grant you a wish, do not wish for infinite wishes. It just doesn't work like that."
+Line Dancing Zombie,Line_Dancing_ZombieH.webp,Sneaky,3,3,1,Dancing,"Gravestone, Strikethrough",Zombie,Super-Rare,Premium,"In her opinion, there's no better song to line dance to than the ""Zombie Shuffle."""
+Locust Swarm,Locust_SwarmH.webp,Beastly,5,,,Pet,,Trick,Common,Basic,A plague upon your lawns!
+Loose Cannon,Loose_CannonH.webp,Crazy,1,1,1,"Barrel, Imp",Overshoot,Zombie,Uncommon,Galactic,"His friends keep telling him it's too dangerous, but he never listens. He's having a blast."
+Lost Colosseum,Lost_ColosseumH.webp,Hearty,2,2,3,"History, Sports","Fusion, Frenzy",Zombie,Rare,Triassic,The Legend of the Mustache Monuments led Zombie explorers to uncover ancient colosseums.
+Loudmouth,LoudmouthH.webp,Beastly,3,1,1,"Party, Imp",Gravestone,Zombie,Uncommon,Premium,"What he lacks in size, he makes up for in volume."
+Lurch for Lunch,Lurch_for_LunchH.webp,Brainy,2,,,Gourmet,Bonus Attack,Trick,Common,Basic,Will work overtime for food.
+Mad Chemist,Mad_ChemistH.webp,Brainy,4,3,5,Science,"Gravestone, Conjure",Zombie,Super-Rare,Premium,"He's not so much ""mad"" as he is ""mildly annoyed."""
+Maniacal Laugh,Maniacal_LaughH.webp,Beastly,6,,,,Frenzy,Trick,Super-Rare,Premium,"It's not so much ""hahaha"" as it is ""mwahahaha."""
+Medic,MedicH.webp,Hearty,4,3,3,Professional,,Zombie,Basic,Common,It's hard keeping Zombies on their feet. It's harder keeping feet on the Zombies.
+Medulla Nebula,Medulla_NebulaH.webp,Brainy,3,,,Gourmet,,Environment,Uncommon,Galactic,Zombies often find brains in space. It's usually the space between your ears.
+Meteor Z,Meteor_ZH.webp,Crazy,2,,,,,Environment,Uncommon,Galactic,"Huge-Gigantacus drove Meteor Z deep into the Earth, creating a tunnel to a hidden world of strange creatures...but what's down there???"
+Mini-Ninja,Mini-NinjaH.webp,Sneaky,1,2,1,"Professional, Imp",Anti-Hero,Zombie,Basic,Common,His motto: Walk softly and carry a big nunchuck.
+Missile Madness,Missile_MadnessH.webp,"Hearty, Crazy",1,,,"Hearty, Crazy, Superpower",,Trick,Legendary,Premium,"For Z-Mech, any target is a good target."
+Mixed-Up Gravedigger,Mixed-Up_GravediggerH.webp,Sneaky,5,5,5,"Professional, Mustache",Gravestone,Zombie,Legendary,Premium,"Digging graves is hard work, but seeing customers rise out of them makes it all worth it."
+Mondo Bronto,Mondo_BrontoH.webp,Beastly,5,5,5,"History, Pet",Dino-Roar,Zombie,Legendary,Colossal,"Deep in Hollow Earth, Zombie warrior women tame herds of enormous dinosaurs. Any good history book will tell you that."
+Monkey Smuggler,Monkey_SmugglerH.webp,Sneaky,2,2,3,"Pet, Pirate",Gravestone,Zombie,Uncommon,Triassic,Piracy is serious monkey business.
+Monster Mash,Monster_MashH.webp,Hearty,5,,,"Monster, Party",,Trick,Rare,Premium,Zombies never feel more alive than when they're dancing.
+Moon Base Z,Moon_Base_ZH.webp,Crazy,3,,,"Science, Barrel",Overshoot,Environment,Super-Rare,Galactic,"Zombies landed on the Moon? Many believe it's nothing but a conspiracy theory, and yet, here's the proof."
+Moonwalker,MoonwalkerH.webp,Brainy,3,2,2,"Dancing, Science",,Zombie,Uncommon,Galactic,"That's one small nibble for Zombies, one giant bite for Zombiekind."
+Mountain Climber,Mountain_ClimberH.webp,Brainy,4,2,2,Sports,Bullseye,Zombie,Uncommon,Premium,She's climbed 'em all: Everest. K2. Your house.
+Mustache Monument,Mustache_MonumentH.webp,Brainy,3,1,5,"History, Mustache","Fusion, Bonus Attack",Zombie,Rare,Triassic,"If Neptuna's Triassic Invasion force can align all of Hollow Earth's Mustache Monuments at once, she will become truly unstoppable."
+Mustache Waxer,Mustache_WaxerH.webp,Brainy,1,2,2,"Professional, Mustache",,Zombie,Uncommon,Triassic,"Customers have been telling him ""Get a brain"" for years now."
+Mystery Egg,Mystery_EggH.webp,Crazy,1,0,2,Gourmet,,Zombie,Uncommon,Colossal,"""Mommy, where do little Zombies come from?"" Asked and answered."
+Neutron Imp,Neutron_ImpH.webp,Brainy,1,2,2,"Science, Imp",Bonus Attack,Zombie,Super-Rare,Galactic,"He's not small, he's just very compact."
+Newspaper Zombie,Newspaper_ZombieH.webp,Crazy,2,1,4,Professional,Gravestone,Zombie,Uncommon,Premium,Newspapers are an undead medium.
+Nibble,NibbleH.webp,Beastly,1,,,Gourmet,Conjure,Trick,Uncommon,Premium,Just a quick bite.
+Nurse Gargantuar,Nurse_GargantuarH.webp,Beastly,7,6,6,"Professional, Gargantuar",Heal,Zombie,Legendary,Premium,Their bedside manner could use some work.
+Octo Zombie,Octo_ZombieH.webp,Beastly,8,8,8,Pet,"Amphibious, Frenzy",Zombie,Legendary,Premium,"Is the correct term 'octopuses' or 'octopi'? You'd think he'd have an opinion, but he doesn't."
+Octo-Pet,Octo-PetH.webp,"Hearty, Sneaky",3,3,2,Pet,"Amphibious, Frenzy",Zombie,Token,Token,"It's slimy, beady-eyed, and it leaves ink splotches wherever it goes. Neptuna loves it all the same."
+Octo-Pult,Octo-PultH.webp,"Hearty, Sneaky",1,,,"Pet, Superpower","Amphibious, Frenzy",Trick,Legendary,Premium,Octopus incoming! Two words a Plant never wants to hear.
+Orchestra Conductor,Orchestra_ConductorH.webp,Crazy,4,2,2,"Dancing, History",,Zombie,Uncommon,Premium,He isn't in it for the music. He just likes waving sticks.
+Overstuffed Zombie,Overstuffed_ZombieH.webp,Beasty,4,4,4,"Gourmet, Mustache","Hunt, Heal",Zombie,Event,Event,"His cholesterol level is off the charts, and yet he seems to be in remarkably good Health."
+Paparazzi Zombie,Paparazzi_ZombieH.webp,Brainy,1,1,1,"Professional, Party",,Zombie,Common,Basic,Why is everyone always screaming and running away in his photos?
+Parasol Zombie,Parasol_ZombieH.webp,Brainy,4,3,6,Party,Untrickable,Zombie,Super-Rare,Colossal,Her favorite author is Brain Austen.
+Pied Piper,Pied_PiperH.webp,Beastly,2,2,1,"Dancing, Pet",Gravestone,Zombie,Common,Basic,He was told that playing the pipe would summon raccoons. But whatevs.
+Planetary Gladiator,Planetary_GladiatorH.webp,Hearty,1,1,3,"Sports, Professional",Armored,Zombie,Super-Rare,Galactic,He's still not sure if he should defend Pluto or not.
+Pogo Bouncer,Pogo_BouncerH.webp,Sneaky,2,2,2,Sports,"Gravestone, Bounce",Zombie,Super-Rare,Premium,"Not the most efficient mode of transportation, but definitely the most fun."
+Pool Shark,Pool_SharkH.webp,Brainy,2,3,1,"Mustache, Sports",Bullseye,Zombie,Uncommon,Premium,Not actually a shark.
+Portal Technician,Portal_TechnicianH.webp,Brainy,5,5,4,"Mustache, Science",,Zombie,Super-Rare,Premium,"Soon everyone will own their own portal. But for now, he enjoys being an early adopter."
+Possessed,PossessedH.webp,Hearty,1,,,Superpower,Frenzy,Trick,Super-Rare,Superpower,There's nothing like a good possession to perk a Zombie up.
+Pot of Gold,Pot_of_GoldH.webp,Brainy,1,,,,Draw,Trick,Token,Token,The luck of the Zombies!
+Primeval Yeti,Primeval_YetiH.webp,Hearty,5,4,4,"Pet, Monster",Evolution,Zombie,Rare,Colossal,What's for lunch? Mostly solid stone.
+Primordial Cheese Shover,Primordial_Cheese_ShoverH.webp,Beastly,4,4,4,"Gourmet, History",Evolution,Zombie,Rare,Colossal,He's wheely cheesy.
+Quarterly Bonus,Quarterly_BonusH.webp,Brainy,4,,,"Barrel, Professional",Bonus Attack,Trick,Uncommon,Triassic,Zombie Pirates kick a lot of booty. Maybe someday they'll figure how to spend it.
+Quasar Wizard,Quasar_WizardH.webp,Crazy,2,2,2,Mustache,Conjure,Zombie,Legendary,Galactic,You can call him Quazard for short.
+Quickdraw Con Man,Quickdraw_Con_ManH.webp,Crazy,1,1,3,Monster,Bullseye,Zombie,Super-Rare,Colossal,How did he know the Plants were coming? Because four-armed is forewarned.
+Ra Zombie,Ra_ZombieH.webp,Hearty,5,3,4,"History, Pet",,Zombie,Uncommon,Premium,Some nights sundown comes early...
+Raiding Raptor,Raiding_RaptorH.webp,Sneaky,3,2,4,"History, Pet","Dino-Roar, Conjure",Zombie,Legendary,Triassic,Amazomb helmets mostly protect their ears from all the roaring.
+Regifting Zombie,Regifting_ZombieH.webp,Brainy,3,3,2,"Party, Pirate",Conjure,Zombie,Event,Event,Regifting: Is it really an embarrassing social faux pas? Or is it just good ol' recycling?
+Rock Wall,Rock_WallH.webp,Hearty,1,,,Superpower,,Trick,Super-Rare,Superpower,"Better than a wall of scissors, but worse than a wall of paper."
+Rocket Science,Rocket_ScienceH.webp,Brainy,3,,,"Science, Barrel",,Trick,Super-Rare,Premium,"Turns out, it IS rocket science."
+Rodeo Gargantuar,Rodeo_GargantuarH.webp,Hearty,7,5,9,"Sports, Gargantuar",Gravestone,Zombie,Rare,Premium,"Why yes, this IS his first rodeo."
+Rolling Stone,Rolling_StoneH.webp,Hearty,1,,,,,Trick,Basic,Common,"Gives new meaning to the phrase ""rock n' roll""."
+Screen Door Zombie,Screen_Door_ZombieH.webp,Hearty,5,4,4,Professional,Gravestone,Zombie,Uncommon,Galactic,Little known fact: He carries a door to protect himself from solar radiation.
+Secret Agent,Secret_AgentH.webp,Beasty,1,,,Professional,Bounce,Zombie,Event,Event,"He likes his brains shaken, not stirred."
+Shieldcrusher Viking,Shieldcrusher_VikingH.webp,Brainy,5,7,5,"Mustache, Pirate",Bullseye,Zombie,Legendary,Premium,Been crushing shields since the 9th Century. Has gotten pretty darn good at it.
+Shrink Ray,Shrink_RayH.webp,"Brainy, Hearty",1,,,"Science, Superpower",Draw,Trick,Legendary,Premium,Rustbolt gets a kick out of belittling Plants.
+Skunk Punk,Skunk_PunkH.webp,Beastly,1,1,1,Pet,,Zombie,Common,Basic,"Smelly Zombie is the only zombie who really gets him, you know?"
+Slammin Smackdown,Slammin_SmackdownH.webp,"Hearty, Beasty",1,,,"Gargantuar, Superpower",,Trick,Legendary,Premium,The Smash's wrestling moves are real all right. Too real. Just ask any Plant.
+Smashing Gargantuar,Smashing_GargantuarH.webp,Beastly,5,5,5,Gargantuar,Frenzy,Zombie,Rare,Premium,"When he phones home, it means something completely different."
+Smelly Zombie,Smelly_ZombieH.webp,Sneaky,2,2,4,Pet,"Gravestone, Deadly",Zombie,Basic,Common,Casual acquaintances don't understand where his pets are. They don't realize that stinkflies can be such tender little friends.
+Smoke Bomb,Smoke_BombH.webp,Sneaky,1,,,,,Trick,Basic,Common,Good for eluding the enemy. Bad for the lungs.
+Sneezing Zombie,Sneezing_ZombieH.webp,Beasty,4,2,4,Party,,Zombie,Event,Event,Flowers give her awful allergies and sickening sneezes. Is that why she wears one on her head?
+Snorkel Zombie,Snorkel_ZombieH.webp,Beastly,2,2,1,Party,Amphibious,Zombie,Uncommon,Premium,Breathing out: check. Breathing in? Not so much.
+Space Cadet,Space_CadetH.webp,Brainy,2,2,3,Science,,Zombie,Token,Token,"His body is in space, but his head is in the clouds."
+Space Cowboy,Space_CowboyH.webp,Sneaky,4,3,5,"Imp, Pet","Strikethrough, Amphibious",Zombie,Legendary,Galactic,Only in the big wide sky will he find Serenity.
+Space Ninja,Space_NinjaH.webp,Crazy,2,3,2,Professional,,Zombie,Uncommon,Galactic,You will never hear him coming in the vacuum of space.
+Space Pirate,Space_PirateH.webp,Sneaky,3,3,2,"Pet, Pirate",Anti-Hero,Zombie,Rare,Galactic,"At first he just dabbled in space piracy, but then he got hooked."
+Squirrel Herder,Squirrel_HerderH.webp,Beastly,2,2,2,"Pet, Professional",Gravestone,Zombie,Rare,Premium,The only thing more difficult than herding cats.
+Stayin Alive,Stayin_AliveH.webp,"Beasty, Crazy",1,,,"Dancing, Superpower",Heal,Trick,Legendary,Premium,"For Electric Boogaloo, ""alive"" is a relative term."
+Stealthy Imp,Stealthy_ImpH.webp,Sneaky,3,2,2,"Pirate, Imp","Gravestone, Anti-Hero",Zombie,Uncommon,Premium,"Don't look, but there's one behind you right now!"
+Stompadon,StompadonH.webp,Hearty,2,2,4,"History, Pet",Dino-Roar,Zombie,Legendary,Colossal,"With a cerebellum the size of a Wall-Nut, it specializes in oversized bodies for little brains."
+Stupid Cupid,Stupid_CupidH.webp,Crazy,4,4,2,Imp,,Zombie,Event,Event,"What's love got to do with it? Honestly, he has no idea."
+Sugary Treat,Sugary_TreatH.webp,Crazy,2,,,Gourmet,,Trick,Uncommon,Colossal,Tooth decay: Not exactly a big concern for Zombies.
+Summoning,SummoningH.webp,Brainy,1,,,Superpower,,Trick,Super-Rare,Superpower,It's like a blind date... but with Zombies... and fighting.
+Sumo Wrestler,Sumo_WrestlerH.webp,Hearty,2,2,3,Sports,Gravestone,Zombie,Rare,Premium,"Hey, he's in shape. Round is a shape."
+Super Stench,Super_StenchH.webp,Sneaky,1,,,Superpower,"Draw, Deadly",Trick,Super-Rare,Superpower,That's the smell of victory!
+Supernova Gargantuar,Supernova_GargantuarH.webp,Beastly,5,5,7,"Science, Gargantuar",Frenzy,Zombie,Legendary,Galactic,This one's got a real temper on him. When he decides to take out a Plant...it's brutal. Just brutal.
+Surfer Zombie,Surfer_ZombieH.webp,Beastly,4,4,3,"Party, Sports","Amphibious, Frenzy",Zombie,Uncommon,Galactic,"He used to hang 10 with the best of them, but ever since he lost that toe to a shark he hasn't been able to hang more than 9."
+Surprise Gargantuar,Surprise_GargantuarH.webp,Sneaky,5,5,6,"Party, Gargantuar",Gravestone,Zombie,Rare,Premium,Surprise! It's a brains-eating monster at your party!
+Swabbie,SwabbieH.webp,Sneaky,0,1,1,"Imp, Pirate",Amphibious,Zombie,Uncommon,Colossal,"When he's not fighting Plants, you'll find him swabbing the Zombot Plank Walker's poop deck."
+Swashbuckler Zombie,Swashbuckler_ZombieH.webp,Sneaky,2,2,2,Pirate,Gravestone,Zombie,Uncommon,Premium,Buckles his swash like no other.
+Synchronized Swimmer,Synchronized_SwimmerH.webp,Beasty,2,2,1,"Dancing, Sports",Amphibious,Zombie,Event,Event,It takes a lot of practice for two Zombies' heads to fall off at the exact same time.
+Tankylosaurus,TankylosaurusH.webp,Crazy,4,2,6,"History, Pet",Dino-Roar,Zombie,Legendary,Colossal,"When not exploring Hollow Earth's jungles, they like to go clubbing."
+Team Mascot,Team_MascotH.webp,Hearty,3,1,4,"Sports, Imp",,Zombie,Basic,Common,Say what you will about the costume - Zombie morale has never been better.
+Telepathy,TelepathyH.webp,Brainy,1,,,Superpower,Draw,Trick,Super-Rare,Superpower,You're thinking of a number between 1 and braaaaains.
+Teleport,TeleportH.webp,Brainy,1,,,Science,Draw,Trick,Legendary,Premium,Feels like cheating.
+Teleportation Station,Teleportation_StationH.webp,Brainy,1,,,"Science, Superpower",Conjure,Environment,Super-Rare,Superpower,"Teleportation is a relatively new technology. Has a few kinks that need ironing out. So yeah, sometimes things get a little...mixed up."
+Teleportation Zombie,Teleportation_ZombieH.webp,Brainy,2,1,5,Science,"Gravestone, Bullseye",Zombie,Legendary,Galactic,The phone cord stretches to another dimension.
+Tennis Champ,Tennis_ChampH.webp,Crazy,1,1,1,Sports,,Zombie,Uncommon,Premium,"When it's Plants vs. Zombies, the score is never love-love."
+Terrify,TerrifyH.webp,Hearty,2,,,,Conjure,Trick,Uncommon,Premium,Just a disembodied Zombie head screaming uncontrollably. Nope. Nothing terrifying about that.
+Terror-Fromer 10000,Terror-Fromer_10000H.webp,"Brainy, Sneaky",1,,,"Science, Imp, Superpower",Conjure,Trick,Legendary,Premium,This is Huge-Gigantacus' greatest invention ever. It's also his only invention. But it's best not to point that out to him.
+The Chickening,The_ChickeningH.webp,Crazy,4,,,"Pet, Monster",,Trick,Rare,Premium,So. Many. Feathers.
+Thinking Cap,Thinking_CapH.webp,Brainy,4,,,Gourmet,Conjure,Trick,Event,Event,Only the best and the brainiest University Zombies graduate to using full-fledged Superpowers.
+Tomb Raiser Zombie,Tomb_Raiser_ZombieH.webp,Sneaky,4,5,3,History,Gravestone,Zombie,Super-Rare,Premium,He's good at making friends.
+Total Eclipse,Total_EclipseH.webp,Beastly,2,,,,,Environment,Uncommon,Galactic,Zombies love a good eclipse. They usually celebrate by eating Plants. And brains.
+Toxic Waste Imp,Toxic_Waste_ImpH.webp,Sneaky,2,2,2,"Barrel, Imp","Deadly, Amphibious",Zombie,Super-Rare,Premium,All the radioactive glow... none of the super powers.
+Transformation Station,Transformation_StationH.webp,Brainy,2,,,Science,,Environment,Super-Rare,Galactic,"According to the Transformation Station brochure, every Zombie who visits is guaranteed to shuffle away feeling like a brand new Zombie."
+Trapper Territory,Trapper_TerritoryH.webp,Crazy,1,,,Gourmet,,Environment,Uncommon,Triassic,Plants do not like feeling trapped. Can you blame them?
+Trapper Zombie,Trapper_ZombieH.webp,Sneaky,4,3,3,"Pet, Mustache",Gravestone,Zombie,Event,Event,Purveyor of only the finest banana peel coats.
+Trash Can Zombie,Trash_Can_ZombieH.webp,Hearty,3,2,3,"Professional, Barrel",Gravestone,Zombie,Uncommon,Premium,It's dark and quiet in there. He finds it soothing. That's what no one gets.
+Trick-or-Treater,Trick-or-TreaterH.webp,Brainy,2,2,4,"Gourmet, Party","Gravestone, Conjure",Zombie,Event,Event,Trick or Treat? He is haunted by that question - and by an answer that continues to elude him.
+Trickster,TricksterH.webp,Brainy,10,6,6,Party,Bonus Attack,Zombie,Legendary,Premium,Never gets tired of the rubber chicken gag.
+Triple Threat,Triple_ThreatH.webp,"Sneaky, Crazy",1,,,"Imp, Superpower",,Trick,Legendary,Premium,That's how you get Imps.
+Triplication,TriplicationH.webp,Brainy,4,,,"Imp, Gargantuar",Conjure,Trick,Rare,Galactic,"An Imp, a Zombie, and Gargantuar walk into a bar..."
+Turkey Rider,Turkey_RiderH.webp,Hearty,2,2,2,"Imp, Pet",Conjure,Zombie,Event,Event,"He insists that, as far as modes of transportation go, turkeys outperform dolphins, walruses, and kangaroos any day."
+Turquoise Skull Zombie,Turquoise_Skull_ZombieH.webp,Hearty,4,2,6,"Professional, Mustache",Gravestone,Zombie,Super-Rare,Triassic,"The mystical Turquoise Skull stole the sun itself, lighting the way to the Mustache Monuments."
+Undying Pharaoh,Undying_PharaohH.webp,Hearty,6,4,6,History,Armored,Zombie,Legendary,Premium,"If the Plants think they're going to beat the Undying Pharaoh, they're in de-Nile."
+Unexpected Gifts,Unexpected_GiftsH.webp,Crazy,3,,,Party,Conjure,Trick,Event,Event,"""For the 4th day of Feastivus, my true love gave to me: 1 Fire Rooster, 1 Sneezing Zombie, 1 Bad Moon Rising, and a partridge in a Pear Tree!"""
+Unlife of the Party,Unlife_of_the_PartyH.webp,Crazy,1,1,1,"Dancing, Party",,Zombie,Uncommon,Premium,His archenemy is the Wall-Flower.
+Unthawed Viking,Unthawed_VikingH.webp,Sneaky,4,4,3,Pirate,"Freeze, Evolution, Amphibious",Zombie,Super-Rare,Triassic,What's the best way to cross the ocean? Freeze it first. How hard could it be?
+Valkyrie,ValkyrieH.webp,Crazy,4,0,6,"Dancing, History",,Zombie,Legendary,Premium,"It's not easy hitting those high notes when all you can sing is, ""Braaaaains."""
+Vengeful Cyborg,Vengeful_CyborgH.webp,Beastly,5,5,6,Science,Hunt,Zombie,Uncommon,Triassic,His toupee went missing in the heat of battle and he's been furious about it ever since.
+Vimpire,VimpireH.webp,Beastly,2,2,3,"Monster, Imp",Frenzy,Zombie,Rare,Premium,He vants to suck your chlorophyll.
+Vitamin Z,Vitamin_ZH.webp,Beastly,3,,,Gourmet,,Trick,Rare,Premium,"Side effects include headaches, blurred vision, and insatiable hunger."
+Walrus Rider,Walrus_RiderH.webp,Sneaky,5,3,4,"Imp, Pet","Anti-Hero, Amphibious",Zombie,Rare,Premium,"A walrus seemed the obvious choice. After all, horses don't go on land *and* water."
+Wannabe Hero,Wannabe_HeroH.webp,Hearty,7,6,1,Gargantuar,Frenzy,Zombie,Legendary,Premium,He has Super Brainz stickers all over his binder.
+Weed Spray,Weed_SprayH.webp,Hearty,3,,,,,Trick,Super-Rare,Premium,Act now! Rids your lawn of pesky weeds... and Peashooters and Sunflowers. Also Wall-Nuts.
+Witchs Familiar,Witchs_FamiliarH.webp,"Brainy, Beasty",1,,,"Pet, Superpower","Amphibious, Draw",Trick,Legendary,Premium,"Immorticia was cleaning her belfry when, lo and behold, she found bats in there."
+Wizard Gargantuar,Wizard_GargantuarH.webp,Brainy,6,5,6,"Mustache, Gargantuar",Bullseye,Zombie,Rare,Premium,"A wizard did it. An enormous, green, Zombie wizard."
+Wormhole Gatekeeper,Wormhole_GatekeeperH.webp,Brainy,3,2,5,Science,Conjure,Zombie,Super-Rare,Galactic,"""Stand here and guard this gate with your unlife,"" she was told. And that's what she's been doing ever since."
+Yeti Lunchbox,Yeti_LunchboxH.webp,Beastly,1,,,"Gourmet, Pet",,Trick,Uncommon,Premium,What's inside? A peanut butter and brains sandwich... with the crusts cut off.
+Zom-Bats,Zom-BatsH.webp,"Brainy, Beasty",3,2,2,Pet,"Amphibious, Draw",Zombie,Token,Token,Like Chihuahuas with wings... and fangs... and a taste for Plants.
+Zom-Blob,Zom-BlobH.webp,Brainy,3,2,5,Monster,Evolution,Zombie,Rare,Colossal,This is why you shouldn't drink primordial soup.
+Zombie Chicken,Zombie_ChickenH.webp,Sneaky,1,2,2,Pet,,Zombie,Uncommon,Premium,"Question: Which came first, the Chicken or the egg? Answer: The Zombie!"
+Zombie Coach,Zombie_CoachH.webp,Hearty,4,3,3,"Mustache, Sports",,Zombie,Rare,Premium,"There's no ""i"" in Zombee!"
+Zombie High Diver,Zombie_High_DiverH.webp,Sneaky,3,3,2,"Mustache, Sports",Gravestone,Zombie,Event,Event,He used to be afraid of heights... and water. True story.
+Zombie King,Zombie_KingH.webp,Hearty,4,3,6,"Mustache, History",,Zombie,Legendary,Premium,"Contrary to popular opinion, it's just OK to be king."
+Zombie Middle Manager,Zombie_Middle_ManagerH.webp,Hearty,1,1,2,Professional,Conjure,Zombie,Uncommon,Colossal,"Like most managers, bringing pain to his employees gives him strength."
+Zombie Yeti,Zombie_YetiH.webp,Beastly,3,3,3,"Pet, Monster","Conjure, Bounce",Zombie,Super-Rare,Premium,Enjoys warm hugs.
+Zombies Best Friend,Zombies_Best_FriendH.webp,Crazy,2,2,1,Pet,,Zombie,Super-Rare,Triassic,"""What counts is not necessarily the size of the dog in the fight; it's the size of the fight in the dog."" - Wight Z. Diesenhower"
+Zombology Teacher,Zombology_TeacherH.webp,Hearty,1,2,1,"Professional, Science",,Zombie,Event,Event,"""If you don't pay attention in class, you'll never improve your brains..."""
+Zombot 1000,Zombot_1000H.webp,Beastly,9,9,9,"Science, Gargantuar",Gravestone,Zombie,Legendary,Premium,The first 999 Zombots are now considered classics.
+Zombot Aerostatic Gondola,Zombot_Aerostatic_GondolaH.webp,Sneaky,5,5,6,"Science, Pirate",Amphibious,Zombie,Legendary,Colossal,"These pirates hit hard, then escape at 3 miles per hour."
+Zombot Battlecruiser 5000,Zombot_Battlecruiser_5000H.webp,Hearty,6,6,6,"Science, Barrel",Gravestone,Zombie,Legendary,Galactic,Not space legal in 35 different galaxies.
+Zombot Dinotronic Mechasaur,Zombot_Dinotronic_MechasaurH.webp,Brainy,7,8,8,"Science, Pet","Dino-Roar, Bullseye",Zombie,Legendary,Triassic,"What's better than a dinosaur? A gigantic, metal, laser monster that gates in four more dinosaurs."
+Zombot Drone Engineer,Zombot_Drone_EngineerH.webp,Brainy,2,1,4,"Mustache, Science",Gravestone,Zombie,Uncommon,Premium,He's not entirely sure how to fly this thing.
+Zombot Plank Walker,Zombot_Plank_WalkerH.webp,Sneaky,8,6,6,"Pirate, Science","Amphibious, Strikethrough",Zombie,Legendary,Premium,"Deploying Pirates here, there and everywhere."
+Zombot Sharktronic Sub,Zombot_Sharktronic_SubH.webp,Sneaky,6,5,5,"Science, Pet",Amphibious,Zombie,Legendary,Premium,Ever dream of piloting a giant shark robot? Join Dr. Zomboss now!
+Zombot Stomp,Zombot_StompH.webp,Sneaky,6,,,"Science, Gargantuar",Bounce,Trick,Rare,Premium,Don't make him put his foot down!
+Zombots Wrath,Zombots_WrathH.webp,Crazy,2,,,"Science, Gargantuar",,Trick,Rare,Premium,Dr. Zomboss believes that there's no problem that can't be solved by a giant robot.
+Zookeeper,ZookeeperH.webp,Beastly,2,1,3,"Pet, Professional",,Zombie,Common,Basic,Snaaaaake!

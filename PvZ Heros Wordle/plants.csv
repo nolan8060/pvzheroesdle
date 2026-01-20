@@ -1,0 +1,285 @@
+name,icon,class,cost,strength,health,tribe,trait,type,rarity,set,description
+2nd-Best Taco of All Time,2nd-Best_Taco_of_All_TimeH.webp,Solar,3,,,,"Heal, Draw",Trick,Super-Rare,Premium,
+Admiral Navy Bean,Admiral_Navy_BeanH.webp,Smarty,1,1,1,Bean,"Amphibious, Team-Up",Plant,Rare,Premium,
+Aloesaurus,AloesaurusH.webp,Solar,5,4,7,"Cactus, Animal","Dino-Roar, Heal",Plant,Legendary,Triassic,
+Apotatosaurus,ApotatosaurusH.webp,Mega-Grow,6,5,5,"Root, Animal","Untrickable, Conjure, Dino-Roar",Plant,Legendary,Triassic,
+Apple-Saucer,Apple-SaucerH.webp,Solar,2,3,1,Fruit,Strikethrough,Plant,Uncommon,Galactic,
+Astro Vera,Astro_VeraH.webp,Solar,8,5,5,Cactus,,Plant,Legendary,Galactic,
+Astro-Shroom,Astro-ShroomH.webp,Kabloom,1,1,1,Mushroom,Bullseye,Plant,Super-Rare,Galactic,He's had good meetings with a lot of smaller asteroids. They really made an impression.
+Astrocado,AstrocadoH.webp,Solar,5,5,3,Fruit,Strikethrough,Plant,Legendary,Galactic,
+Astrocado Pit,Astrocado_PitH.webp,Solar,1,0,1,Seed,,Plant,Token,Token,Getting defeated is the pits.
+Atomic Bombegranate,Atomic_BombegranateH.webp,Kabloom,5,5,2,Fruit,,Plant,Event,Event,"Remember: Never ever EVER split a fruit. Oh, hold on, actually fruits are ok, just never split an atom."
+Bamboozle,BamboozleH.webp,Mega-Grow,6,6,6,"Leafy, Root","Evolution, Draw",Plant,Rare,Colossal,Only among the hyper-evolved Plants of Hollow Earth can you be outwitted by a tree.
+Banana Bomb,Banana_BombH.webp,Kabloom,1,,,Fruit,,Trick,Uncommon,Galactic,Beware fruity vengeance from above.
+Banana Launcher,Banana_LauncherH.webp,Kabloom,2,0,3,Fruit,,Plant,Super-Rare,Galactic,He only knows one word. But it's a good one.
+Banana Peel,Banana_PeelH.webp,Mega-Grow,2,,,Fruit,Conjure,Trick,Rare,Galactic,"A slapstick comedy staple that, somehow, the Zombies never see coming."
+Banana Split,Banana_SplitH.webp,Mega-Grow,4,4,5,Fruit,,Plant,Event,Event,
+Bananasaurus Rex,Bananasaurus_RexH.webp,Mega-Grow,4,3,3,"Animal, Fruit","Double Strike, Dino-Roar",Plant,Legendary,Premium,
+Bean Counter,Bean_CounterH.webp,Smarty,4,1,1,Bean,Team-Up,Plant,Super-Rare,Premium,
+Bellflower,BellflowerH.webp,Solar,1,1,1,Flower,,Plant,Common,Basic,
+Berry Angry,Berry_AngryH.webp,Kabloom,3,,,Berry,,Plant,Uncommon,Premium,"""Now you've done it! That's the last straw! I'm gonna berry you!"""
+Berry Blast,Berry_BlastH.webp,Kabloom,2,,,Berry,,Trick,Common,Basic,Vicious AND nutritious.
+Big Chill,Big_ChillH.webp,Smarty,1,,,Superpower,"Freeze, Draw",Trick,Super-Rare,Superpower,Discerning Plants agree: Zombies are best served on ice.
+Bird of Paradise,Bird_of_ParadiseH.webp,Smarty,5,4,5,"Flower, Animal","Amphibious, Conjure",Plant,Legendary,Triassic,
+Black-Eyed Pea,Black-Eyed_PeaH.webp,Mega-Grow,2,2,2,"Bean, Pea",,Plant,Super-Rare,Premium,
+Blazing Bark,Blazing_BarkH.webp,"Kabloom, Mega-Grow",1,,,"Tree, Superpower",,Trick,Legendary,Premium,Captain Combustible knows how to light a fire under his teammates.
+Blockbuster,BlockbusterH.webp,Guardian,4,3,3,Root,Bullseye,Plant,Rare,Colossal,They call it a graveyard. She calls it a buffet.
+Bloomerang,BloomerangH.webp,Solar,4,3,5,Flower,Strikethrough,Plant,Uncommon,Premium,
+Blooming Heart,Blooming_HeartH.webp,Kabloom,1,2,1,Flower,,Plant,Event,Event,Sometimes we hurt the ones we love. Blooming Heart knows this all too well.
+Bluesberry,BluesberryH.webp,Kabloom,5,3,3,Berry,,Plant,Uncommon,Premium,Loves to make Zombies sing the blues.
+Body-Gourd,Body-GourdH.webp,Guardian,5,4,6,Squash,"Amphibious, Team-Up",Plant,Legendary,Galactic,He moonlights as a decorative center piece during the fall.
+Bog of Enlightenment,Bog_of_EnlightenmentH.webp,Smarty,2,,,,Amphibious,Environment,Super-Rare,Galactic,
+Bonk Choy,Bonk_ChoyH.webp,Mega-Grow,1,2,1,Leafy,Team-Up,Plant,Uncommon,Premium,Little known fact: He used to have two teeth.
+Brainana,BrainanaH.webp,Smarty,6,4,3,Fruit,Amphibious,Plant,Legendary,Premium,
+Briar Rose,Briar_RoseH.webp,Solar,5,4,5,Flower,,Plant,Legendary,Premium,
+Bubble Up,Bubble_UpH.webp,Guardian,1,,,Superpower,Team-Up,Trick,Super-Rare,Superpower,Who doesn't like bubbles? Zombies...that's who.
+Buff-Shroom,Buff-ShroomH.webp,Kabloom,2,1,1,Mushroom,,Plant,Common,Basic,"You might know him from his wildly popular series of workout videos called ""30 Days to a Buff-Shroom Body."""
+Button Mushroom,Button_MushroomH.webp,Kabloom,1,1,1,Mushroom,,Plant,Common,Basic,"Everyone's always telling her, ""You're cute as a button!"" But she's not just cute. She's smart and funny too."
+Cabbage-Pult,Cabbage-PultH.webp,Mega-Grow,2,2,3,Leafy,,Plant,Common,Basic,"""Coleslaw from above!"""
+Cactus,CactusH.webp,Guardian,2,2,5,"Cactus, Flower",Bullseye,Plant,Uncommon,Premium,"""It's true. I'm prickly on the outside but spongy on the inside."""
+Captain Cucumber,Captain_CucumberH.webp,Mega-Grow,3,1,4,Fruit,Conjure,Plant,Legendary,Galactic,
+Carrotillery,CarrotilleryH.webp,Smarty,4,5,3,Root,Team-Up,Plant,Uncommon,Premium,
+Cattail,CattailH.webp,Smarty,3,3,2,Animal,Amphibious,Plant,Common,Basic,
+Cherry Bomb,Cherry_BombH.webp,Kabloom,6,,,Berry,,Trick,Super-Rare,Premium,Explode? Detonate? ... Explodonate!
+Chilly Pepper,Chilly_PepperH.webp,Smarty,3,2,1,Fruit,Freeze,Plant,Rare,Premium,
+Chomper,ChomperH.webp,Solar,4,2,3,Flytrap,,Plant,Super-Rare,Premium,
+Clique Peas,Clique_PeasH.webp,Mega-Grow,1,2,2,"Bean, Pea",,Plant,Event,Event,
+Cob Cannon,Cob_CannonH.webp,Solar,6,4,6,"Corn, Fruit",Evolution,Plant,Legendary,Colossal,
+Coffee Grounds,Coffee_GroundsH.webp,Mega-Grow,2,,,Bean,Double Strike,Environment,Uncommon,Galactic,"Nothing wakes you up in the morning like extra attacks on zombies. Well OK, coffee does."
+Cool Bean,Cool_BeanH.webp,Smarty,3,3,3,Bean,Freeze,Plant,Super-Rare,Galactic,
+Corn Dog,Corn_DogH.webp,Guardian,2,3,2,"Corn, Animal","Amphibious, Hunt",Plant,Event,Event,"Who's a good vegetable? You are! Yes, you are!"
+Cornucopia,CornucopiaH.webp,Solar,9,6,6,"Corn, Fruit",,Plant,Legendary,Premium,
+Cosmic Bean,Cosmic_BeanH.webp,Smarty,2,1,1,Bean,"Team-Up, Conjure",Plant,Rare,Galactic,
+Cosmic Flower,Cosmic_FlowerH.webp,Solar,3,2,2,Flower,"Strikethrough, Conjure",Plant,Rare,Galactic,
+Cosmic Mushroom,Cosmic_MushroomH.webp,Kabloom,3,2,2,Mushroom,Conjure,Plant,Rare,Galactic,"He's far out all right. Like, waaaay far out."
+Cosmic Nut,Cosmic_NutH.webp,Guardian,4,4,3,Nut,Conjure,Plant,Rare,Galactic,"A staunch believer in numerology, he'll go on at length about the significance of the number 3 if you let him."
+Cosmic Pea,Cosmic_PeaH.webp,Mega-Grow,4,2,2,Pea,"Double Strike, Conjure",Plant,Rare,Galactic,"""The cosmos is so big and a pea is so small. The juxtaposition just really makes me think, you know?"""
+Cosmoss,CosmossH.webp,Solar,1,2,2,Moss,,Plant,Uncommon,Galactic,
+Cro-Magnolia,Cro-MagnoliaH.webp,Kabloom,3,2,4,Flower,Evolution,Plant,Rare,Colossal,"In the secret groves of Hollow Earth, Magnolias evolved to shun steely stoicism, boasting blunt barbarity."
+Cross-Pollination,Cross-PollinationH.webp,Solar,3,,,"Fruit, Flower",Conjure,Trick,Super-Rare,Triassic,
+Dandy Lion King,Dandy_Lion_KingH.webp,Kabloom,6,4,4,"Flower, Animal",,Plant,Legendary,Premium,He's developed a taste for Zombie Heroes.
+Dark Matter Dragonfruit,Dark_Matter_DragonfruitH.webp,Smarty,8,6,6,"Dragon, Fruit","Amphibious, Splash Damage",Plant,Legendary,Galactic,
+Devour,DevourH.webp,"Mega-Grow, Solar",1,,,"Flytrap, Superpower",,Trick,Legendary,Premium,Chompzilla enjoys eating Zombies whole. She does not enjoy the indigestion that follows.
+Doom-Shroom,Doom-ShroomH.webp,Guardian,5,,,Mushroom,Conjure,Trick,Super-Rare,Premium,"""I could destroy everything you hold dear. It wouldn't be hard."""
+Doubled Mint,Doubled_MintH.webp,Mega-Grow,2,1,2,Leafy,,Plant,Legendary,Premium,
+Elderberry,ElderberryH.webp,Solar,4,2,3,"Flower, Berry","Strikethrough, Evolution",Plant,Rare,Colossal,
+Electric Blueberry,Electric_BlueberryH.webp,Kabloom,5,0,5,Berry,,Plant,Event,Event,"Does she strike a ""random"" Zombie with her lightning? Really? Or is she settling an old, unspoken score?"
+Embiggen,EmbiggenH.webp,Mega-Grow,1,,,Superpower,,Trick,Super-Rare,Superpower,"Livin' large, oh yeah."
+Ensign Uproot,Ensign_UprootH.webp,Guardian,1,2,1,"Root, Superpower",Amphibious,Plant,Super-Rare,Superpower,His mighty tractor beam is straight off the farm and out of this world.
+Espresso Fiesta,Espresso_FiestaH.webp,Mega-Grow,7,,,Bean,Bonus Attack,Trick,Super-Rare,Premium,
+Eyespore,EyesporeH.webp,Solar,2,2,1,Moss,Fusion,Plant,Rare,Triassic,
+Fertilize,FertilizeH.webp,Mega-Grow,3,,,,,Trick,Common,Basic,"Stinky, sure, but powerful stuff. Ask any Plant."
+Fire Peashooter,Fire_PeashooterH.webp,Mega-Grow,2,3,2,Pea,,Plant,Uncommon,Premium,"""Is it getting hot in here or is it just me?"""
+Fireweed,FireweedH.webp,Kabloom,2,3,2,"Flower, Root",,Plant,Super-Rare,Colossal,Don't touch the floor. The floor is lava.
+Flourish,FlourishH.webp,Mega-Grow,3,,,,Draw,Trick,Common,Basic,Call it a growth spurt.
+Force Field,Force_FieldH.webp,Guardian,4,,,,,Environment,Super-Rare,Galactic,It's a force of nature.
+Forget-Me-Nuts,Forget-Me-NutsH.webp,Guardian,1,2,1,"Flower, Nut",,Plant,Event,Event,"""I'd forget my own flower if it wasn't stuck to my head. Wait, what were we talking about?"""
+Fume-Shroom,Fume-ShroomH.webp,Solar,2,2,1,Mushroom,Strikethrough,Plant,Uncommon,Premium,
+Galacta-Cactus,Galacta-CactusH.webp,Guardian,1,2,1,"Cactus, Flower",Bullseye,Plant,Super-Rare,Galactic,"""I take pity on no one. For I am Galacta-Cactus!"""
+Gardening Gloves,Gardening_GlovesH.webp,Guardian,2,,,,Conjure,Trick,Uncommon,Premium,Made of the softest fabric for that gentle Plant touch.
+Garlic,GarlicH.webp,Guardian,1,1,5,Root,Team-Up,Plant,Event,Event,"""Vimpires. They're the worst. I don't like to use the word 'hate' but yeah, I hate 'em."""
+Gatling pea,Gatling_peaH.webp,Mega-Grow,5,5,4,Pea,"Double Strike, Evolution, Bonus Attack",Plant,Legendary,Colossal,
+Genetic Amplification,Genetic_AmplificationH.webp,"Guardian, Smarty",1,,,"Root, Superpower","Conjure, Team-Up, Amphibious",Trick,Legendary,Premium,"The modifications are controversial, sure. But the results are hard to argue with."
+Geyser,GeyserH.webp,Solar,1,,,Superpower,Heal,Trick,Super-Rare,Superpower,H2Oh no you didn't!
+Gloom-Shroom,Gloom-ShroomH.webp,Kabloom,5,5,5,Mushroom,"Bullseye, Evolution",Plant,Legendary,Colossal,"Some see him as depressed, but he's got a lot of sides."
+Go-Nuts,Go-NutsH.webp,Smarty,3,2,2,"Flower, Nut",Team-Up,Plant,Event,Event,
+Goatify,GoatifyH.webp,"Smarty, Solar",1,,,"Flower, Superpower",,Trick,Legendary,Premium,Rose turns Zombies into goats because... GOATS!
+Grape Power,Grape_PowerH.webp,Mega-Grow,3,,,Berry,Conjure,Trick,Super-Rare,Colossal,
+Grape Responsibility,Grape_ResponsibilityH.webp,Guardian,1,,,Berry,,Trick,Uncommon,Colossal,"When you think of responsibility, think of grapes."
+Grapes of Wrath,Grapes_of_WrathH.webp,Kabloom,7,6,6,Berry,,Plant,Super-Rare,Premium,"""Everyone's always asking, 'Why so angry?' Because ZOMBIES! Sheesh. Obviously."""
+Grave Buster,Grave_BusterH.webp,Guardian,2,,,Root,,Trick,Rare,Premium,"""MUST. DESTROY. GRAVES."""
+Grave Mistake,Grave_MistakeH.webp,Smarty,2,,,,"Bounce, Draw",Trick,Uncommon,Colossal,
+Gravitree,GravitreeH.webp,Guardian,6,7,7,"Fruit, Tree","Armored, Untrickable",Plant,Super-Rare,Galactic,The apple doesn't fall far from the tree. Neither does anything else.
+Grizzly Pear,Grizzly_PearH.webp,Guardian,5,5,4,"Fruit, Animal",Amphibious,Plant,Uncommon,Triassic,"It's true what they say, ""Never get between a Grizzly Pear and her cub."" Doubly true for Zombies."
+Grow-Shroom,Grow-ShroomH.webp,Mega-Grow,3,,,Mushroom,,Plant,Common,Basic,She's always bringing out the best in others.
+Guacodile,GuacodileH.webp,Guardian,4,4,3,"Fruit, Animal",Amphibious,Plant,Super-Rare,Premium,"""Technically I'm a food, not a Plant."""
+Half-Banana,Half-BananaH.webp,Mega-Grow,2,2,2,Fruit,,Plant,Uncommon,Triassic,"""Have you met my better half? She's around here somewhere."""
+Haunted Pumpking,Haunted_PumpkingH.webp,Solar,1,4,1,Squash,Conjure,Plant,Event,Event,
+Health-Nut,Health-NutH.webp,Guardian,3,0,4,Nut,,Plant,Event,Event,He always skips leg day.
+Heartichoke,HeartichokeH.webp,Solar,4,3,4,"Leafy, Flower",,Plant,Rare,Galactic,
+Hibernating Beary,Hibernating_BearyH.webp,Guardian,3,0,8,"Berry, Animal",,Plant,Rare,Premium,Don't poke the beary.
+High-Voltage Currant,High-Voltage_CurrantH.webp,Kabloom,1,1,1,Berry,Conjure,Plant,Event,Event,These trouble makers are just asking to get grounded.
+Holo-Flora,Holo-FloraH.webp,Mega-Grow,1,,,Superpower,Draw,Trick,Super-Rare,Superpower,You got Plants!
+Hot Date,Hot_DateH.webp,Guardian,2,0,1,Fruit,,Plant,Event,Event,"He's a hot commodity on dating sites such as eGardening, Thatch.com, and OKTulip."
+Hot Lava,Hot_LavaH.webp,Kabloom,0,,,,,Environment,Uncommon,Triassic,Lava has no loyalty. It's just hot. It just IS.
+Hothead,HotheadH.webp,"Kabloom, Guardian",3,0,1,Root,Team-Up,Plant,Token,Token,"Sure, he has an explosive temper. But for the most part, he's pretty even peeled."
+Iceberg Lettuce,Iceberg_LettuceH.webp,Smarty,1,,,Leafy,Freeze,Trick,Uncommon,Premium,
+Imitater,ImitaterH.webp,Kabloom,3,1,4,"Root, Mime",,Plant,Super-Rare,Colossal,"When asked the secret to fighting zombies, Imitater replied: ""...."" Truly a master of his craft."
+Invasive Species,Invasive_SpeciesH.webp,Kabloom,2,1,4,"Leafy, Flower",,Plant,Uncommon,Galactic,"""Call me a 'weed.' Go on. I consider it a compliment."""
+Jack O Lantern,Jack_O_LanternH.webp,Solar,2,2,3,Squash,Strikethrough,Plant,Event,Event,
+Jelly Bean,Jelly_BeanH.webp,Smarty,4,4,3,Bean,"Evolution, Bounce",Plant,Super-Rare,Colossal,
+Jolly Holly,Jolly_HollyH.webp,Smarty,5,4,1,"Leafy, Berry","Amphibious, Freeze",Plant,Event,Event,
+Jugger-Nut,Jugger-NutH.webp,Guardian,3,2,3,Nut,"Armored, Bullseye, Team-Up",Plant,Super-Rare,Premium,"What's better than a Wall-Nut? A Wall-Nut in a suit of armor, that's what."
+Jumping Bean,Jumping_BeanH.webp,Smarty,5,3,2,Bean,Bounce,Plant,Rare,Premium,
+Kernel Corn,Kernel_CornH.webp,Kabloom,8,6,6,Corn,,Plant,Legendary,Premium,"What he lacks in a sense of humor, he makes up with attitude... and dual Cob Busters."
+Kernel-Pult,Kernel-PultH.webp,Solar,1,1,1,Corn,Team-Up,Plant,Uncommon,Colossal,
+Ketchup Mechanic,Ketchup_MechanicH.webp,Solar,3,1,1,Fruit,Heal,Plant,Event,Event,
+Laser Bean,Laser_BeanH.webp,Solar,6,0,5,Bean,Strikethrough,Plant,Super-Rare,Premium,
+Laser Cattail,Laser_CattailH.webp,Smarty,2,2,2,Animal,"Amphibious, Team-Up",Plant,Super-Rare,Galactic,
+Lava Guava,Lava_GuavaH.webp,Kabloom,4,,,Fruit,,Trick,Rare,Galactic,"""'I try to stay cool, I really do. But Zombies! Man, they make me blow my top!"""
+Lawnmower,LawnmowerH.webp,Solar,4,,,,,Trick,Rare,Premium,
+Leaf Blower,Leaf_BlowerH.webp,Smarty,4,3,4,Leafy,"Amphibious, Bounce",Plant,Uncommon,Galactic,
+Lieutenant Carrotron,Lieutenant_CarrotronH.webp,Smarty,1,2,1,"Root, Superpower","Team-Up, Conjure",Plant,Super-Rare,Superpower,Beta-Carrotina knows she can always count on him to get to the root of the problem.
+Lightning Reed,Lightning_ReedH.webp,Smarty,2,2,2,Leafy,"Amphibious, Splash Damage",Plant,Rare,Premium,
+Lightspeed Seed,Lightspeed_SeedH.webp,Smarty,1,,,"Seed, Superpower",Conjure,Trick,Super-Rare,Superpower,Make the jump to light seed.
+Lil Buddy,Lil_BuddyH.webp,Solar,0,0,1,"Flower, Seed","Team-Up, Heal",Plant,Uncommon,Triassic,
+Lily of the Valley,Lily_of_the_ValleyH.webp,Mega-Grow,2,2,2,Flower,,Plant,Event,Event,
+Lily Pad,Lily_PadH.webp,Smarty,1,0,1,Leafy,"Amphibious, Fusion, Conjure",Plant,Rare,Triassic,
+Lima-Pleurodon,Lima-PleurodonH.webp,Smarty,1,2,2,"Bean, Animal","Amphibious, Dino-Roar",Plant,Legendary,Colossal,
+Loco Coco,Loco_CocoH.webp,Guardian,6,3,4,"Fruit, Nut",Evolution,Plant,Legendary,Triassic,He crowned himself King of All Hollow Earth. No one had the heart to tell him it was actually a parliamentary democracy.
+Magic Beanstalk,Magic_BeanstalkH.webp,Smarty,1,4,4,"Leafy, Bean",Draw,Plant,Token,Token,Giant not included.
+Magnifying Grass,Magnifying_GrassH.webp,Solar,3,0,2,Leafy,,Plant,Rare,Premium,
+Marine Bean,Marine_BeanH.webp,Guardian,3,3,3,"Bean, Animal",Amphibious,Plant,Super-Rare,Triassic,Of course beans evolved gills. How else would they breathe underwater?
+Mars Flytrap,Mars_FlytrapH.webp,Smarty,1,2,2,Flytrap,,Plant,Uncommon,Galactic,
+Mayflower,MayflowerH.webp,Smarty,3,2,4,Flower,"Amphibious, Conjure",Plant,Event,Event,
+Melon-Pult,Melon-PultH.webp,Smarty,5,3,5,Fruit,Splash Damage,Plant,Rare,Galactic,
+Metal Petal Sunflower,Metal_Petal_SunflowerH.webp,Solar,4,3,4,Flower,,Plant,Uncommon,Premium,
+Meteor Strike,Meteor_StrikeH.webp,Kabloom,1,,,Superpower,,Trick,Super-Rare,Superpower,You would think this would be especially effective against Zombies riding dinosaurs...
+Mirror-Nut,Mirror-NutH.webp,Guardian,4,0,11,Nut,"Team-Up, Bullseye",Plant,Super-Rare,Premium,Dressed up as a mirrorball for a disco-themed party. Never looked back.
+Mixed Nuts,Mixed_NutsH.webp,Solar,2,2,2,Nut,,Plant,Common,Basic,
+Molekale,MolekaleH.webp,Kabloom,4,3,2,Leafy,,Plant,Legendary,Galactic,"""And you thought spinach made you strong. Please. I am spinach times infinity."""
+Moonbean,MoonbeanH.webp,Mega-Grow,3,2,5,Bean,,Plant,Super-Rare,Galactic,
+More Spore,More_SporeH.webp,Kabloom,1,,,"Mushroom, Superpower",,Trick,Super-Rare,Superpower,One good mushroom deserves another.
+Morning Glory,Morning_GloryH.webp,Solar,1,2,2,Flower,,Plant,Uncommon,Premium,
+Muscle Sprout,Muscle_SproutH.webp,Mega-Grow,3,3,2,Leafy,,Plant,Legendary,Premium,
+Mush-Boom,Mush-BoomH.webp,"Kabloom, Smarty",1,,,"Mushroom, Superpower",,Trick,Legendary,Premium,Nightcap and his mushroom friends are not to be truffled with.
+Mushroom Grotto,Mushroom_GrottoH.webp,Kabloom,3,,,Mushroom,,Environment,Uncommon,Galactic,Sometimes beautiful things grow out of the darkest places. Ponder that for a few moments.
+Mushroom Ringleader,Mushroom_RingleaderH.webp,Kabloom,3,0,1,Mushroom,,Plant,Uncommon,Premium,"Leadership comes with a lot of responsibility, but he knew what he signed up for."
+Navy Bean,Navy_BeanH.webp,Smarty,4,3,3,Bean,"Amphibious, Team-Up",Plant,Rare,Premium,
+Nut Signal,Nut_SignalH.webp,Guardian,1,,,"Nut, Superpower",Draw,Trick,Super-Rare,Superpower,Call on Wall-Nut any time. His schedule is wide open.
+Onion Rings,Onion_RingsH.webp,Mega-Grow,5,4,4,Root,,Plant,Legendary,Galactic,
+Pair of Pears,Pair_of_PearsH.webp,Kabloom,4,2,2,Fruit,,Plant,Uncommon,Premium,It's cute how they're always completing each other's sentences.
+Pair Pearadise,Pair_PearadiseH.webp,Kabloom,4,,,Fruit,,Environment,Super-Rare,Galactic,Peter Piper's Planet precociously picked a pair of pickled peppered pairs.
+Party Thyme,Party_ThymeH.webp,Mega-Grow,1,2,2,Leafy,Draw,Plant,Super-Rare,Premium,
+Pea Patch,Pea_PatchH.webp,Mega-Grow,2,2,3,"Leafy, Pea",Fusion,Plant,Rare,Triassic,Don't let the Dog Walker anywhere near it.
+Pea Pod,Pea_PodH.webp,Mega-Grow,1,1,1,Pea,,Plant,Uncommon,Premium,"Sometimes they squabble, but they usually get along like five peas in a pod."
+Pea-Nut,Pea-NutH.webp,Guardian,3,2,4,"Pea, Nut",Team-Up,Plant,Uncommon,Premium,"""Mom was a Peashooter. Dad was a nut. Everyone said it wouldn't work, but they were wrong."""
+Pear Cub,Pear_CubH.webp,Guardian,3,1,1,"Fruit, Animal",Amphibious,Plant,Event,Event,"So cute and cuddly and ... wait, what's that growling sound?"
+Pear Pal,Pear_PalH.webp,Smarty,2,2,2,Fruit,"Amphibious, Team-Up",Plant,Uncommon,Colossal,
+Peashooter,PeashooterH.webp,Mega-Grow,1,1,1,Pea,,Plant,Common,Basic,Started fighting Zombies in 2009... and never stopped.
+Pecanolith,PecanolithH.webp,Guardian,5,0,7,Nut,,Plant,Legendary,Galactic,No one knows where he came from. He just appeared one day. But everyone who comes in contact with him feels... changed somehow.
+Peel Shield,Peel_ShieldH.webp,"Guardian, Smarty",1,,,"Fruit, Superpower",Draw,Trick,Legendary,Premium,Orange you glad Citron is here to protect you?
+Pepper M.D.,Pepper_M.D.H.webp,Solar,2,2,2,Fruit,,Plant,Uncommon,Premium,
+Petal-Morphosis,Petal-MorphosisH.webp,Kabloom,4,,,Flower,Draw,Trick,Rare,Premium,For when it's time to turn over a new leaf.
+Photosynthesizer,PhotosynthesizerH.webp,Guardian,1,,,,Conjure,Trick,Uncommon,Galactic,"""The galaxy is one beautiful melody, so play!"""
+Pineclone,PinecloneH.webp,Kabloom,4,3,3,Pinecone,,Plant,Legendary,Premium,It's nothing personal; she just prefers the company of other Pineclones.
+Pismashio,PismashioH.webp,Guardian,2,2,4,Nut,Team-Up,Plant,Common,Basic,"""I'm a kind of ice cream! Sort of!"""
+Planet of the Grapes,Planet_of_the_GrapesH.webp,Smarty,3,,,Berry,Draw,Environment,Uncommon,Galactic,
+Plant Food,Plant_FoodH.webp,Mega-Grow,4,,,,Bonus Attack,Trick,Rare,Premium,The most important meal of the day.
+Plantern,PlanternH.webp,Guardian,3,3,3,"Tree, Root",,Plant,Uncommon,Galactic,Past job experience includes: Shooing away creepy fog.
+Plucky Clover,Plucky_CloverH.webp,Mega-Grow,5,2,5,Leafy,Conjure,Plant,Event,Event,
+Pod Fighter,Pod_FighterH.webp,Mega-Grow,5,3,4,Pea,Bonus Attack,Plant,Super-Rare,Galactic,
+Poison Ivy,Poison_IvyH.webp,Kabloom,3,1,3,"Leafy, Berry",Anti-Hero,Plant,Uncommon,Premium,"""Guess who's itching for a fight? This guy right here!"""
+Poison Mushroom,Poison_MushroomH.webp,Kabloom,1,1,1,Mushroom,Anti-Hero,Plant,Uncommon,Premium,"""Zombie Heroes. Don't like 'em. Not one bit. Don't care who knows it, either."""
+Poison Oak,Poison_OakH.webp,Kabloom,6,5,6,"Leafy, Tree",,Plant,Rare,Premium,Gets lunch with Poison Ivy and Poison Mushroom every week. They have a lot to talk about.
+Poppin' Poppies,Poppin_PoppiesH.webp,Guardian,6,4,4,Flower,,Plant,Legendary,Premium,Makes friends wherever she goes.
+Potato Mine,Potato_MineH.webp,Guardian,1,0,1,Root,Team-Up,Plant,Uncommon,Premium,"""I'm starchy and explosive!"""
+Potted Powerhouse,Potted_PowerhouseH.webp,Mega-Grow,5,4,4,Leafy,,Plant,Super-Rare,Premium,
+Power Flower,Power_FlowerH.webp,Solar,4,3,5,Flower,"Strikethrough, Heal",Plant,Rare,Premium,
+Power Pummel,Power_PummelH.webp,"Mega-Grow, Guardian",1,,,"Leafy, Superpower",,Trick,Legendary,Premium,"""Knuckle sandwiches for all my enemies!"""
+Precision Blast,Precision_BlastH.webp,"Mega-Grow, Smarty",1,,,"Pea, Superpower",,Trick,Legendary,Premium,Green Shadow's approach is right down the middle.
+Prickly Pear,Prickly_PearH.webp,Guardian,5,0,10,"Cactus, Fruit",Team-Up,Plant,Rare,Premium,"""You hurt me, I hurt you. That's how this works."""
+Primal Peashooter,Primal_PeashooterH.webp,Smarty,1,2,2,Pea,Bounce,Plant,Uncommon,Triassic,
+Primal Potato Mine,Primal_Potato_MineH.webp,Guardian,1,0,1,Root,,Plant,Uncommon,Colossal,"Hidden long ago in Hollow Earth, Dinosaurs ran rampant in The Land Before Mine."
+Primal Sunflower,Primal_SunflowerH.webp,Solar,1,2,1,Flower,,Plant,Super-Rare,Colossal,
+Primal Wall-Nut,Primal_Wall-NutH.webp,Guardian,3,0,8,Nut,"Team-Up, Untrickable, Conjure",Plant,Super-Rare,Triassic,You can't be destroyed by a Rolling Stone when you basically are a Rolling Stone.
+Puff-Shroom,Puff-ShroomH.webp,Kabloom,0,1,1,Mushroom,Team-Up,Plant,Uncommon,Colossal,"He huffs and puffs and, occasionally, blows a Zombie down."
+Pumpkin Shell,Pumpkin_ShellH.webp,Guardian,3,2,4,Squash,Fusion,Plant,Rare,Triassic,"""Build your house on a solid foundation,"" they said. ""Build your house on pumpkin."""
+Punish-Shroom,Punish-ShroomH.webp,Kabloom,3,2,2,Mushroom,,Plant,Super-Rare,Premium,Believes revenge is best served. Period.
+Re-Peat Moss,Re-Peat_MossH.webp,Mega-Grow,4,2,3,Moss,Bonus Attack,Plant,Rare,Premium,"""To do what I do... it's TRICKY. I'll leave it at that."""
+Red Stinger,Red_StingerH.webp,Guardian,4,3,7,Flower,Team-Up,Plant,Event,Event,"""I do stretching exercises every morning,"" he says. ""It's important to stay physically and mentally nimble."""
+Reincarnation,ReincarnationH.webp,Kabloom,1,2,2,Flower,,Plant,Legendary,Galactic,"""You never know what the next life has in store for you,"" she says. ""So get the most out of this one while you can."""
+Repeater,RepeaterH.webp,Mega-Grow,3,2,3,Pea,Double Strike,Plant,Common,Basic,"""Yes! Yes! Let's do this! Let's do this!"""
+Rescue Radish,Rescue_RadishH.webp,Smarty,3,3,4,Root,Bounce,Plant,Uncommon,Premium,
+Root Wall,Root_WallH.webp,Guardian,1,,,"Root, Superpower",,Trick,Super-Rare,Superpower,A good way to root for the Plants.
+Rotobaga,RotobagaH.webp,Smarty,2,2,1,Root,Amphibious,Plant,Super-Rare,Triassic,
+Sage Sage,Sage_SageH.webp,Solar,2,2,3,Leafy,Draw,Plant,Rare,Premium,
+Sap-Fling,Sap-FlingH.webp,Smarty,6,5,3,"Pinecone, Tree",,Plant,Event,Event,
+Sappy Place,Sappy_PlaceH.webp,Smarty,4,,,,,Environment,Token,Token,Zombies just hate a sappy ending.
+Savage Spinach,Savage_SpinachH.webp,Mega-Grow,4,3,6,Leafy,Evolution,Plant,Super-Rare,Triassic,
+Scorched Earth,Scorched_EarthH.webp,Solar,1,,,Superpower,,Trick,Super-Rare,Superpower,Unfortunately the Zombies were all out of SPF 9000.
+Sea-Shroom,Sea-ShroomH.webp,Guardian,1,2,2,Mushroom,Amphibious,Plant,Uncommon,Premium,Teaches swimming lessons to disadvantaged Plants in his spare time.
+Seedling,SeedlingH.webp,Kabloom,2,0,2,Seed,,Plant,Common,Basic,It's the tiny seed of a... nobody actually knows.
+Sergeant Strongberry,Sergeant_StrongberryH.webp,Kabloom,4,4,3,Berry,,Plant,Super-Rare,Premium,"He's intense, sure. But he just wants the berries to be all they can be."
+Shamrocket,ShamrocketH.webp,Guardian,3,,,"Leafy, Pinecone",,Trick,Event,Event,"The bigger they are, the harder they go boom."
+Shelf Mushroom,Shelf_MushroomH.webp,Kabloom,2,2,2,"Mushroom, Berry",Fusion,Plant,Rare,Triassic,"Legends of Hollow Earth whisper that if you stack up enough Shelf Mushrooms, you'll eventually reach the Surface World."
+Shellery,ShelleryH.webp,Smarty,1,2,1,Leafy,Team-Up,Plant,Uncommon,Premium,
+Shooting Starfruit,Shooting_StarfruitH.webp,Smarty,5,2,2,Fruit,,Plant,Legendary,Galactic,
+Shrinking Violet,Shrinking_VioletH.webp,Smarty,4,,,Flower,,Trick,Super-Rare,Triassic,
+Shroom for Two,Shroom_for_TwoH.webp,Kabloom,1,1,1,Mushroom,,Plant,Rare,Premium,"Shrooms, bless their hearts, always wanting to cuddle up cuddly-like."
+Sizzle,SizzleH.webp,Kabloom,3,,,,,Trick,Uncommon,Premium,Incredibly hot and full of electricity. So much ouch.
+Skyshooter,SkyshooterH.webp,Mega-Grow,4,3,3,Pea,,Plant,Uncommon,Premium,The youngest Peashooter ever to earn a pilot's license. Also the only Peashooter ever to earn a pilot's license.
+Smackadamia,SmackadamiaH.webp,Guardian,5,4,5,Nut,Amphibious,Plant,Rare,Premium,Smackadamia wasn't born with smack smarts. He studied hard. He's a smackademic.
+Small-Nut,Small-NutH.webp,Guardian,1,1,1,Nut,,Plant,Common,Basic,"A violin virtuoso, Small-Nut began taking lessons when he was still in the shell."
+Smashing Pumpkin,Smashing_PumpkinH.webp,Solar,6,6,6,Squash,,Plant,Common,Basic,
+Smoosh-Shroom,Smoosh-ShroomH.webp,Smarty,5,5,4,Mushroom,,Plant,Common,Basic,
+Snake Grass,Snake_GrassH.webp,Smarty,4,4,2,"Leafy, Animal",Amphibious,Plant,Event,Event,
+Snapdragon,SnapdragonH.webp,Smarty,4,3,3,"Dragon, Flower","Amphibious, Splash Damage",Plant,Super-Rare,Premium,
+Snow Pea,Snow_PeaH.webp,Smarty,2,2,2,Pea,Freeze,Plant,Common,Basic,
+Snowdrop,SnowdropH.webp,Smarty,1,1,2,Flower,,Plant,Common,Basic,
+Solar Winds,Solar_WindsH.webp,Solar,3,,,,,Environment,Super-Rare,Galactic,
+Sonic Bloom,Sonic_BloomH.webp,Kabloom,4,3,1,Flower,,Plant,Event,Event,Victory faster than the speed of sound.
+Soul Patch,Soul_PatchH.webp,Guardian,6,5,10,"Flower, Root",Armored,Plant,Legendary,Premium,Has been gently encouraging Cherry Bomb and Sour Grapes to attend his meditation class.
+Sour Grapes,Sour_GrapesH.webp,Kabloom,4,2,2,Berry,,Plant,Rare,Premium,Sour. Bitter. Resentful. It's all true. But he's got his reasons.
+Sow Magic Beans,Sow_Magic_BeansH.webp,Smarty,2,,,"Leafy, Bean",,Trick,Super-Rare,Premium,
+Spikeweed Sector,Spikeweed_SectorH.webp,Guardian,3,,,Root,,Environment,Uncommon,Galactic,Quite similar to the region known as Pokey Province.
+Spineapple,SpineappleH.webp,Guardian,3,0,3,Fruit,,Plant,Common,Basic,Don't let his gruff exterior fool you. He's always looking out for the little guy.
+Split Pea,Split_PeaH.webp,Mega-Grow,2,4,1,Pea,,Plant,Super-Rare,Colossal,
+Sportacus,SportacusH.webp,Smarty,3,3,3,"Mushroom, Nut",,Plant,Event,Event,
+Spring Bean,Spring_BeanH.webp,Smarty,3,,,Bean,Bounce,Trick,Uncommon,Premium,
+Spyris,SpyrisH.webp,Smarty,1,2,1,"Flower, Root",Amphibious,Plant,Event,Event,
+Squash,SquashH.webp,Solar,5,,,Squash,,Trick,Common,Basic,
+Starch-Lord,Starch-LordH.webp,Guardian,4,2,4,Root,Conjure,Plant,Rare,Galactic,His destiny is written in the starch.
+Steel Magnolia,Steel_MagnoliaH.webp,Guardian,3,3,2,Flower,,Plant,Uncommon,Premium,She's got nerves of steel... and everything else of steel!
+Sting Bean,Sting_BeanH.webp,Guardian,1,1,2,"Bean, Pea","Amphibious, Bullseye, Team-Up",Plant,Common,Basic,"""I try to warn them, 'This is going to sting.' But the Zombies, they never listen."""
+Storm Front,Storm_FrontH.webp,Kabloom,1,,,Superpower,,Trick,Super-Rare,Superpower,Bad for your picnic. Good for your plants.
+Strawberrian,StrawberrianH.webp,Kabloom,3,3,2,Berry,Evolution,Plant,Super-Rare,Triassic,"When it's time to fight, he gets pretty juiced."
+Sun-Shroom,Sun-ShroomH.webp,Solar,1,0,2,Mushroom,Team-Up,Plant,Event,Event,
+Sunburn,SunburnH.webp,"Solar, Kabloom",1,,,"Flower, Superpower",,Trick,Legendary,Premium,Solar Flare never met a sunscreen strong enough to stop her.
+Sunflower,SunflowerH.webp,Solar,1,0,1,Flower,Team-Up,Plant,Common,Basic,
+Sunflower Seed,Sunflower_SeedH.webp,Solar,2,2,2,"Flower, Seed",,Plant,Super-Rare,Colossal,
+Sunnier-Shroom,Sunnier-ShroomH.webp,Solar,3,0,3,Mushroom,Team-Up,Plant,Uncommon,Triassic,
+Super-Phat Beets,Super-Phat_BeetsH.webp,Mega-Grow,6,4,4,Root,,Plant,Rare,Premium,"When he drops the beet, everyone feels it. Especially the Zombies."
+Sweet Pea,Sweet_PeaH.webp,Mega-Grow,2,2,3,Pea,,Plant,Uncommon,Galactic,"Zombies may only have four teeth left, but one of them's a sweet tooth."
+Sweet Potato,Sweet_PotatoH.webp,Mega-Grow,1,0,3,Root,Team-Up,Plant,Uncommon,Premium,Loves unicorns and rainbows... and watching cats on the Internet.
+Tactical Cuke,Tactical_CukeH.webp,Solar,5,,,Fruit,,Trick,Super-Rare,Galactic,
+Tater Toss,Tater_TossH.webp,"Kabloom, Guardian",1,,,"Root, Superpower",,Trick,Legendary,Premium,"Spudow is one tranquil tuber. Still, sometimes he loses his head."
+The Great Zucchini,The_Great_ZucchiniH.webp,Smarty,9,7,7,Squash,Amphibious,Plant,Legendary,Premium,
+The Podfather,The_PodfatherH.webp,Mega-Grow,3,2,3,Pea,,Plant,Rare,Premium,"""It ain't easy keeping the peas in this family."""
+The Red Plant-It,The_Red_Plant-ItH.webp,Mega-Grow,5,,,Root,,Environment,Super-Rare,Galactic,
+Three-Headed Chomper,Three-Headed_ChomperH.webp,Solar,6,6,6,Flytrap,,Plant,Legendary,Premium,
+Three-Nut,Three-NutH.webp,Guardian,3,3,2,"Pea, Nut",,Plant,Super-Rare,Colossal,They say two heads are better than one. Three-Nut just took the next evolutionary step.
+Threepeater,ThreepeaterH.webp,Smarty,5,1,5,Pea,,Plant,Common,Basic,
+Time to Shine,Time_to_ShineH.webp,Mega-Grow,1,,,Superpower,Bonus-Attack,Trick,Super-Rare,Superpower,"Makes you feel all warm, glowy, and like kickin' Zombie butt."
+Toadstool,ToadstoolH.webp,Solar,6,4,5,"Mushroom, Animal",,Plant,Event,Event,
+Torchwood,TorchwoodH.webp,Mega-Grow,1,0,3,Tree,Team-Up,Plant,Common,Basic,"""Feel the burn, I COMMAND YOU!"""
+Tough Beets,Tough_BeetsH.webp,Guardian,5,2,2,Root,Armored,Plant,Rare,Premium,He grew up on the wrong side of the garden.
+Transfiguration,TransfigurationH.webp,Kabloom,4,4,7,"Leafy, Fruit",,Plant,Event,Event,"""By Heisenberg's Uncertainty Principle, if you look at a Plant too closely, you actually change what that Plant is..."""
+Transmogrify,TransmogrifyH.webp,Smarty,1,,,Superpower,,Trick,Super-Rare,Superpower,"It's a life-changing experience. Actually, it's an everything-changing experience."
+Tricarrotops,TricarrotopsH.webp,Guardian,2,1,2,"Root, Animal","Bullseye, Dino-Roar",Plant,Legendary,Colossal,Beta-Carrotina tracked Huge-Gigantacus all the way down the Meteor-Z-carved tunnel to Hollow Earth. Carrots there had evolved in a very different direction.
+Tricorn,TricornH.webp,Smarty,6,2,6,Nut,Evolution,Plant,Rare,Colossal,
+Twin Sunflower,Twin_SunflowerH.webp,Solar,2,0,2,Flower,Team-Up,Plant,Super-Rare,Premium,
+Typical Beanstalk,Typical_BeanstalkH.webp,Mega-Grow,3,3,3,"Leafy, Bean",Conjure,Plant,Uncommon,Triassic,"""Everyone's magic in their own special way. Everyone except me."""
+Umbrella Leaf,Umbrella_LeafH.webp,Mega-Grow,1,0,2,"Leafy, Flower","Team-Up, Untrickable",Plant,Uncommon,Colossal,She's not very frond of getting wet.
+Uncrackable,UncrackableH.webp,"Guardian, Solar",1,,,"Nut, Superpower",Draw,Trick,Legendary,Premium,"Wall-Knight laughs, ""A thousand broken nutcrackers tell the story."""
+Vanilla,VanillaH.webp,Smarty,3,3,3,"Bean, Flower",,Plant,Uncommon,Premium,
+Vegetation Mutation,Vegetation_MutationH.webp,Mega-Grow,2,,,Pea,,Trick,Uncommon,Galactic,Environmentalism at its finest.
+Veloci-Radish Hatchling,Veloci-Radish_HatchlingH.webp,Kabloom,1,1,2,"Root, Animal",Dino-Roar,Plant,Uncommon,Triassic,The root of all primeval.
+Veloci-Radish Packmate,Veloci-Radish_PackmateH.webp,Kabloom,3,1,3,"Root, Animal",Dino-Roar,Plant,Legendary,Triassic,"Dedicated pack hunters, one roars a distraction while the other strikes from the side."
+Venus Flytrap,Venus_FlytrapH.webp,Solar,3,3,1,Flytrap,Heal,Plant,Uncommon,Premium,
+Venus Flytraplanet,Venus_FlytraplanetH.webp,Solar,4,,,Flytrap,Heal,Environment,Uncommon,Galactic,
+Wall-Nut,Wall-NutH.webp,Guardian,1,0,6,Nut,Team-Up,Plant,Common,Basic,"Works well with others. Says so, right there on his resume."
+Wall-Nut Bowling,Wall-Nut_BowlingH.webp,Guardian,8,,,Nut,,Trick,Legendary,Premium,Ugly shoes not required!
+Water Balloons,Water_BalloonsH.webp,Solar,2,,,,,Trick,Uncommon,Premium,
+Water Chestnut,Water_ChestnutH.webp,Guardian,2,0,8,"Root, Nut","Amphibious, Team-Up",Plant,Uncommon,Premium,"""300 laps a day, every day. That's how I do it."""
+Weed Whack,Weed_WhackH.webp,Solar,1,,,"Root, Superpower",,Trick,Super-Rare,Superpower,Good for weeding out Zombies.
+Weenie Beanie,Weenie_BeanieH.webp,Smarty,1,1,1,Bean,,Plant,Common,Basic,
+Whack-a-Zombie,Whack-a-ZombieH.webp,Solar,3,,,,,Trick,Rare,Premium,
+Whipvine,WhipvineH.webp,Mega-Grow,5,6,5,Root,,Plant,Rare,Premium,"""Get along, little Zombie."""
+Whirlwind,WhirlwindH.webp,Smarty,1,,,Superpower,Bounce,Trick,Super-Rare,Superpower,There's no place like home. There's no place like home.
+Wild Berry,Wild_BerryH.webp,Kabloom,2,4,1,Berry,Anti-Hero,Plant,Rare,Premium,"What one word best describes Wild Berry? ""Unpredictable."""
+Wing-Nut,Wing-NutH.webp,Solar,4,3,7,"Pea, Nut",,Plant,Super-Rare,Galactic,
+Winter Melon,Winter_MelonH.webp,Smarty,6,4,5,Fruit,"Splash Damage, Freeze",Plant,Legendary,Premium,
+Winter Squash,Winter_SquashH.webp,Smarty,4,2,6,Squash,,Plant,Super-Rare,Premium,
+Witch Hazel,Witch_HazelH.webp,Smarty,4,0,3,Flower,,Plant,Event,Event,
+Zapricot,ZapricotH.webp,Kabloom,3,4,1,Fruit,,Plant,Common,Basic,"""Some say that Zombies aren't easily shocked. I beg to differ."""
