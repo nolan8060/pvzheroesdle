@@ -17,7 +17,7 @@ Banana Split,Banana_SplitH.webp,Mega-Grow,4,4,5,Fruit,,Plant,Event,Event,
 Bananasaurus Rex,Bananasaurus_RexH.webp,Mega-Grow,4,3,3,"Animal, Fruit","Double Strike, Dino-Roar",Plant,Legendary,Premium,
 Bean Counter,Bean_CounterH.webp,Smarty,4,1,1,Bean,Team-Up,Plant,Super-Rare,Premium,
 Bellflower,BellflowerH.webp,Solar,1,1,1,Flower,,Plant,Common,Basic,
-Berry Angry,Berry_AngryH.webp,Kabloom,3,,,Berry,,Plant,Uncommon,Premium,"""Now you've done it! That's the last straw! I'm gonna berry you!"""
+Berry Angry,Berry_AngryH.webp,Kabloom,3,,,Berry,,Trick,Uncommon,Premium,"""Now you've done it! That's the last straw! I'm gonna berry you!"""
 Berry Blast,Berry_BlastH.webp,Kabloom,2,,,Berry,,Trick,Common,Basic,Vicious AND nutritious.
 Big Chill,Big_ChillH.webp,Smarty,1,,,Superpower,"Freeze, Draw",Trick,Super-Rare,Superpower,Discerning Plants agree: Zombies are best served on ice.
 Bird of Paradise,Bird_of_ParadiseH.webp,Smarty,5,4,5,"Flower, Animal","Amphibious, Conjure",Plant,Legendary,Triassic,
@@ -36,7 +36,7 @@ Bubble Up,Bubble_UpH.webp,Guardian,1,,,Superpower,Team-Up,Trick,Super-Rare,Super
 Buff-Shroom,Buff-ShroomH.webp,Kabloom,2,1,1,Mushroom,,Plant,Common,Basic,"You might know him from his wildly popular series of workout videos called ""30 Days to a Buff-Shroom Body."""
 Button Mushroom,Button_MushroomH.webp,Kabloom,1,1,1,Mushroom,,Plant,Common,Basic,"Everyone's always telling her, ""You're cute as a button!"" But she's not just cute. She's smart and funny too."
 Cabbage-Pult,Cabbage-PultH.webp,Mega-Grow,2,2,3,Leafy,,Plant,Common,Basic,"""Coleslaw from above!"""
-Cactus,CactusH.webp,Guardian,2,2,5,"Cactus, Flower",Bullseye,Plant,Uncommon,Premium,"""It's true. I'm prickly on the outside but spongy on the inside."""
+Cactus,CactusH.webp,Guardian,3,2,5,"Cactus, Flower",Bullseye,Plant,Uncommon,Premium,"""It's true. I'm prickly on the outside but spongy on the inside."""
 Captain Cucumber,Captain_CucumberH.webp,Mega-Grow,3,1,4,Fruit,Conjure,Plant,Legendary,Galactic,
 Carrotillery,CarrotilleryH.webp,Smarty,4,5,3,Root,Team-Up,Plant,Uncommon,Premium,
 Cattail,CattailH.webp,Smarty,3,3,2,Animal,Amphibious,Plant,Common,Basic,
@@ -78,7 +78,7 @@ Fume-Shroom,Fume-ShroomH.webp,Solar,2,2,1,Mushroom,Strikethrough,Plant,Uncommon,
 Galacta-Cactus,Galacta-CactusH.webp,Guardian,1,2,1,"Cactus, Flower",Bullseye,Plant,Super-Rare,Galactic,"""I take pity on no one. For I am Galacta-Cactus!"""
 Gardening Gloves,Gardening_GlovesH.webp,Guardian,2,,,,Conjure,Trick,Uncommon,Premium,Made of the softest fabric for that gentle Plant touch.
 Garlic,GarlicH.webp,Guardian,1,1,5,Root,Team-Up,Plant,Event,Event,"""Vimpires. They're the worst. I don't like to use the word 'hate' but yeah, I hate 'em."""
-Gatling pea,Gatling_peaH.webp,Mega-Grow,5,5,4,Pea,"Double Strike, Evolution, Bonus Attack",Plant,Legendary,Colossal,
+Gatling pea,Gatling_PeaH.webp,Mega-Grow,5,5,4,Pea,"Double Strike, Evolution, Bonus Attack",Plant,Legendary,Colossal,
 Genetic Amplification,Genetic_AmplificationH.webp,"Guardian, Smarty",1,,,"Root, Superpower","Conjure, Team-Up, Amphibious",Trick,Legendary,Premium,"The modifications are controversial, sure. But the results are hard to argue with."
 Geyser,GeyserH.webp,Solar,1,,,Superpower,Heal,Trick,Super-Rare,Superpower,H2Oh no you didn't!
 Gloom-Shroom,Gloom-ShroomH.webp,Kabloom,5,5,5,Mushroom,"Bullseye, Evolution",Plant,Legendary,Colossal,"Some see him as depressed, but he's got a lot of sides."
