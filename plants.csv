@@ -91,7 +91,7 @@ Grave Buster,Grave_BusterH.webp,Guardian,2,,,Root,,Trick,Rare,Premium,"""MUST. D
 Grave Mistake,Grave_MistakeH.webp,Smarty,2,,,,"Bounce, Draw",Trick,Uncommon,Colossal,
 Gravitree,GravitreeH.webp,Guardian,6,7,7,"Fruit, Tree","Armored, Untrickable",Plant,Super-Rare,Galactic,The apple doesn't fall far from the tree. Neither does anything else.
 Grizzly Pear,Grizzly_PearH.webp,Guardian,5,5,4,"Fruit, Animal",Amphibious,Plant,Uncommon,Triassic,"It's true what they say, ""Never get between a Grizzly Pear and her cub."" Doubly true for Zombies."
-Grow-Shroom,Grow-ShroomH.webp,Mega-Grow,3,,,Mushroom,,Plant,Common,Basic,She's always bringing out the best in others.
+Grow-Shroom,Grow-ShroomH.webp,Mega-Grow,3,2,1,Mushroom,,Plant,Common,Basic,She's always bringing out the best in others.
 Guacodile,GuacodileH.webp,Guardian,4,4,3,"Fruit, Animal",Amphibious,Plant,Super-Rare,Premium,"""Technically I'm a food, not a Plant."""
 Half-Banana,Half-BananaH.webp,Mega-Grow,2,2,2,Fruit,,Plant,Uncommon,Triassic,"""Have you met my better half? She's around here somewhere."""
 Haunted Pumpking,Haunted_PumpkingH.webp,Solar,1,4,1,Squash,Conjure,Plant,Event,Event,
@@ -263,7 +263,7 @@ Typical Beanstalk,Typical_BeanstalkH.webp,Mega-Grow,3,3,3,"Leafy, Bean",Conjure,
 Umbrella Leaf,Umbrella_LeafH.webp,Mega-Grow,1,0,2,"Leafy, Flower","Team-Up, Untrickable",Plant,Uncommon,Colossal,She's not very frond of getting wet.
 Uncrackable,UncrackableH.webp,"Guardian, Solar",1,,,"Nut, Superpower",Draw,Trick,Legendary,Premium,"Wall-Knight laughs, ""A thousand broken nutcrackers tell the story."""
 Vanilla,VanillaH.webp,Smarty,3,3,3,"Bean, Flower",,Plant,Uncommon,Premium,
-Vegetation Mutation,Vegetation_MutationH.webp,Mega-Grow,2,,,Pea,,Trick,Uncommon,Galactic,Environmentalism at its finest.
+Vegetation Mutation,Vegetation_MutationH.webp,Mega-Grow,2,,,,,Trick,Uncommon,Galactic,Environmentalism at its finest.
 Veloci-Radish Hatchling,Veloci-Radish_HatchlingH.webp,Kabloom,1,1,2,"Root, Animal",Dino-Roar,Plant,Uncommon,Triassic,The root of all primeval.
 Veloci-Radish Packmate,Veloci-Radish_PackmateH.webp,Kabloom,3,1,3,"Root, Animal",Dino-Roar,Plant,Legendary,Triassic,"Dedicated pack hunters, one roars a distraction while the other strikes from the side."
 Venus Flytrap,Venus_FlytrapH.webp,Solar,3,3,1,Flytrap,Heal,Plant,Uncommon,Premium,
