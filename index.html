@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
 
-    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y2BBG8K9EY"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -11,7 +10,6 @@
         gtag('config', 'G-Y2BBG8K9EY');
     </script>
 
-    <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6337028915945089"
          crossorigin="anonymous"></script>
 
@@ -19,19 +17,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PVZ Heroes Wordle - Daily Card Guessing Game</title>
     
-    <!-- SEO Meta Tags -->
     <meta name="description" content="Play Plants Vs Zombies Heroes Wordle! Guess the Plants vs Zombies Heroes card in as few tries as possible. Daily challenges for Classic, Plants and Zombies! If thats not enough the play Endless mode!">
     <meta name="keywords" content="pvz heroes, pvz heroes wordle, wordle, plants vs zombies heroes, card game, puzzle game, daily challenge, guessing game">
     <meta name="author" content="PVZ Heroes Wordle">
     
-    <!-- Open Graph Meta Tags (for social media sharing) -->
     <meta property="og:title" content="PVZ Heroes Wordle - Daily Card Guessing Game">
     <meta property="og:description" content="Guess the PvZ Heroes card! Daily puzzle game with Classic, Plants, Zombies, and Endless modes.">
     <meta property="og:image" content="https://pvzherosdle.com/images/Logo.png">
     <meta property="og:url" content="https://pvzherosdle.com">
     <meta property="og:type" content="website">
     
-    <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="PVZ Heroes Wordle">
     <meta name="twitter:description" content="Guess the PvZ Heroes card! Daily puzzle game.">
@@ -41,7 +36,6 @@
 </head>
 <body>  
 
-    <!-- Info Popup Modal -->
     <div id="infoPopup" class="info-popup-overlay" onclick="closeInfoPopup()">
         <div class="info-popup-content" onclick="event.stopPropagation()">
             <button class="info-close-btn" onclick="closeInfoPopup()">✕</button>
@@ -80,13 +74,11 @@
         </div>
     </div>
 
-    <!-- Page Container -->
     <div class="container">
         <div class="title">
             <img src="images/Logo.png" alt="PvZ Heroes Wordle">
         </div>
 
-        <!-- Game Mode Buttons -->
         <div class="menu-buttons">
             <div class="menu-btn-combo" onclick="startGame('classic')">
                 <img src="images/classic_icon.png" class="menu-icon classic-icon" alt="Classic" onerror="this.style.display='none'">
@@ -114,9 +106,7 @@
             </div>
         </div>
 
-        <!-- Guess Bar -->
         <div class="guess-bar" id="guessBar">
-            <!-- Message Box -->
             <div id="messageBox" class="message-box"></div>
             
             <div class="guess-wrapper">
@@ -132,7 +122,6 @@
                 </button>
             </div>
             
-            <!-- Hard Mode Button -->
             <div class="top-ui">
                 <button id="hardModeBtn"
                         class="hard-mode-btn"
@@ -143,10 +132,8 @@
             </div>
         </div>
 
-        <!-- Box Container -->
         <div id="boxContainer" style="margin-top: 40px;"></div>
 
-        <!-- Bottom Center Icons -->
         <div class="bottom-left-icons" id="bottomIcons">
             <a href="https://forms.gle/2vfhpJfz1BAekHjN9" target="_blank" class="icon-button question-mark" title="Feedback & Bug Reports">
                 <img src="images/questionmark.webp" alt="Feedback">
@@ -162,10 +149,29 @@
         </div>
     </div>
 
-    <!-- CSV Parser -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 
-    <!-- Game Script -->
+    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore-compat.js"></script>
+
+    <script>
+      // Firebase configuration using your specific credentials
+      const firebaseConfig = {
+        apiKey: "AIzaSyCE9QHvFZ6L8HsE2lALZlCiywCv1_6RqDo",
+        authDomain: "pvz-wordle-stats.firebaseapp.com",
+        projectId: "pvz-wordle-stats",
+        storageBucket: "pvz-wordle-stats.firebasestorage.app",
+        messagingSenderId: "732650145581",
+        appId: "1:732650145581:web:8a0c583daf31e4bdfc75a4",
+        measurementId: "G-ZTGHSYSDWY"
+      };
+
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+      // Define 'db' globally so game.js can access it
+      const db = firebase.firestore();
+    </script>
+
     <script src="game.js"></script>
 
 </body>
