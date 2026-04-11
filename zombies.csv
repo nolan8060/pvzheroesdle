@@ -20,7 +20,7 @@ Binary Stars,Binary_StarsH.webp,Crazy,5,3,3,Dancing,Gravestone,Zombie,Legendary,
 Biodome Botanist,Biodome_BotanistH.webp,Beastly,2,2,3,"Mustache, Science",,Zombie,Rare,Galactic,"Growing Plants in Space? Some of his fellow Zombies think he's crazy, but others appreciate the effort."
 Black Hole,Black_HoleH.webp,Hearty,1,,,,,Environment,Super-Rare,Galactic,Plants usually like being planted in holes. Black holes? Not so much.
 Blowgun Imp,Blowgun_ImpH.webp,Sneaky,5,3,4,"Pirate, Imp","Deadly, Strikethrough, Evolution, Bounce",Zombie,Rare,Colossal,"Much more successful than his cousin, the Inhalegun Imp."
-Bobblehead,BobbleheadH.webp,Crazy,3,3,3,"Dancing, Mustache",Evolution,Zombie,Legendary,Triassic,"He offers a special deal: Two of his heads for one of yours. Anyway you slice it, you still come out a head."
+Bobblehead,BobbleheadH.webp,Crazy,4,2,4,"Dancing, Mustache",Evolution,Zombie,Legendary,Triassic,"He offers a special deal: Two of his heads for one of yours. Anyway you slice it, you still come out a head."
 Bonus Track Buckethead,Bonus_Track_BucketheadH.webp,Hearty,4,4,4,Dancing,Armored,Zombie,Event,Event,He put all his favorite songs on that mixtape. If only he could find the right Zombie to give it to.
 Brain Vendor,Brain_VendorH.webp,Brainy,3,2,1,"Gourmet, Sports",,Zombie,Uncommon,Premium,Sells only 100% organic brains.
 Brute Strength,Brute_StrengthH.webp,Crazy,1,,,Superpower,,Trick,Super-Rare,Superpower,Is there any other kind?
@@ -156,7 +156,7 @@ Medic,MedicH.webp,Hearty,4,3,3,Professional,,Zombie,Common,Basic,It's hard keepi
 Medulla Nebula,Medulla_NebulaH.webp,Brainy,3,,,Gourmet,,Environment,Uncommon,Galactic,Zombies often find brains in space. It's usually the space between your ears.
 Meteor Z,Meteor_ZH.webp,Crazy,2,,,,,Environment,Uncommon,Galactic,"Huge-Gigantacus drove Meteor Z deep into the Earth, creating a tunnel to a hidden world of strange creatures...but what's down there???"
 Mini-Ninja,Mini-NinjaH.webp,Sneaky,1,2,1,"Professional, Imp",Anti-Hero,Zombie,Common,Basic,His motto: Walk softly and carry a big nunchuck.
-Missile Madness,Missile_MadnessH.webp,"Hearty, Crazy",1,,,"Hearty, Crazy, Superpower",,Trick,Legendary,Premium,"For Z-Mech, any target is a good target."
+Missile Madness,Missile_MadnessH.webp,"Hearty, Crazy",1,,,"Science, Imp, Superpower",,Trick,Legendary,Premium,"For Z-Mech, any target is a good target."
 Mixed-Up Gravedigger,Mixed-Up_GravediggerH.webp,Sneaky,5,5,5,"Professional, Mustache",Gravestone,Zombie,Legendary,Premium,"Digging graves is hard work, but seeing customers rise out of them makes it all worth it."
 Mondo Bronto,Mondo_BrontoH.webp,Beastly,5,5,5,"History, Pet",Dino-Roar,Zombie,Legendary,Colossal,"Deep in Hollow Earth, Zombie warrior women tame herds of enormous dinosaurs. Any good history book will tell you that."
 Monkey Smuggler,Monkey_SmugglerH.webp,Sneaky,2,2,3,"Pet, Pirate",Gravestone,Zombie,Uncommon,Triassic,Piracy is serious monkey business.
@@ -235,7 +235,7 @@ Teleportation Station,Teleportation_StationH.webp,Brainy,1,,,"Science, Superpowe
 Teleportation Zombie,Teleportation_ZombieH.webp,Brainy,2,1,5,Science,"Gravestone, Bullseye",Zombie,Legendary,Galactic,The phone cord stretches to another dimension.
 Tennis Champ,Tennis_ChampH.webp,Crazy,1,1,1,Sports,,Zombie,Uncommon,Premium,"When it's Plants vs. Zombies, the score is never love-love."
 Terrify,TerrifyH.webp,Hearty,2,,,,Conjure,Trick,Uncommon,Premium,Just a disembodied Zombie head screaming uncontrollably. Nope. Nothing terrifying about that.
-Terror-Fromer 10000,Terror-Fromer_10000H.webp,"Brainy, Sneaky",1,,,"Science, Imp, Superpower",Conjure,Trick,Legendary,Premium,This is Huge-Gigantacus' greatest invention ever. It's also his only invention. But it's best not to point that out to him.
+Terror-Former 10000,Terror-Former_10000H.webp,"Brainy, Sneaky",1,,,"Science, Imp, Superpower",Conjure,Trick,Legendary,Premium,This is Huge-Gigantacus' greatest invention ever. It's also his only invention. But it's best not to point that out to him.
 The Chickening,The_ChickeningH.webp,Crazy,4,,,"Pet, Monster",,Trick,Rare,Premium,So. Many. Feathers.
 Thinking Cap,Thinking_CapH.webp,Brainy,4,,,Gourmet,Conjure,Trick,Event,Event,Only the best and the brainiest University Zombies graduate to using full-fledged Superpowers.
 Tomb Raiser Zombie,Tomb_Raiser_ZombieH.webp,Sneaky,4,5,3,History,Gravestone,Zombie,Super-Rare,Premium,He's good at making friends.
