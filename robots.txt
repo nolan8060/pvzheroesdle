@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://pvzheroesdle.com/sitemap.xml
-Sitemap: https://pvzherosdle.com/sitemap.xml

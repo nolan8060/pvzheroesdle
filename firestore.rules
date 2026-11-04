@@ -1,0 +1,54 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Global daily stats: one doc per mode.
+    match /stats/{docName} {
+      allow read: if true;
+
+      function validName() {
+        return docName in ['global_distribution_classic',
+                           'global_distribution_plants',
+                           'global_distribution_zombies'];
+      }
+
+      function buckets() {
+        return ['1','2','3','4','5','6','7','8','9','10+'];
+      }
+
+      // Initial creation / daily reset: every counter must be exactly 0.
+      function isZeroed(d) {
+        return d['1'] == 0 && d['2'] == 0 && d['3'] == 0 && d['4'] == 0 &&
+               d['5'] == 0 && d['6'] == 0 && d['7'] == 0 && d['8'] == 0 &&
+               d['9'] == 0 && d['10+'] == 0 && d.totalGames == 0 &&
+               d.lastResetDate is string && d.mode is string;
+      }
+
+      // Normal play: exactly one bucket +1, and totalGames +1.
+      function isSingleIncrement() {
+        let before = resource.data;
+        let after = request.resource.data;
+        let changed = request.resource.data.diff(resource.data).affectedKeys();
+        return changed.hasOnly(['1','2','3','4','5','6','7','8','9','10+','totalGames'])
+               && changed.hasAny(['1','2','3','4','5','6','7','8','9','10+'])
+               && after.totalGames == before.totalGames + 1
+               && changed.size() == 2;
+      }
+
+      allow create: if validName() && isZeroed(request.resource.data);
+
+      allow update: if validName() && (
+        isSingleIncrement() ||
+        // daily reset: zeroed doc with a new date
+        (isZeroed(request.resource.data) &&
+         request.resource.data.lastResetDate != resource.data.lastResetDate)
+      );
+
+      allow delete: if false;
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

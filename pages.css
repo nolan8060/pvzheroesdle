@@ -1,0 +1,103 @@
+/* Shared styles for the static info pages (about, contact, privacy, how-to-play) */
+* { box-sizing: border-box; }
+
+@font-face {
+    font-family: 'Cafeteria';
+    src: url('fonts/Cafeteria-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+html, body { margin: 0; padding: 0; }
+
+body {
+    background-image: url("images/PvZ Background.webp");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #1b2a1b;
+    font-family: 'Cafeteria', Arial, Helvetica, sans-serif;
+    color: white;
+    min-height: 100vh;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: -1;
+}
+
+.page-header {
+    text-align: center;
+    padding: 20px 20px 0;
+}
+
+.page-header img {
+    width: 280px;
+    max-width: 80%;
+    height: auto;
+    filter: drop-shadow(3px 3px 6px black);
+}
+
+.page-nav {
+    text-align: center;
+    margin: 12px 0 0;
+}
+
+.page-nav a, .page-footer a, .page-card a { color: #FFD700; }
+.page-nav a { margin: 0 10px; font-size: 16px; }
+
+.page-card {
+    max-width: 820px;
+    margin: 24px auto;
+    padding: 28px 32px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border: 3px solid rgba(255, 255, 255, 0.25);
+    border-radius: 16px;
+    line-height: 1.7;
+    font-size: 16px;
+}
+
+.page-card h1 { color: #FFD700; font-size: 32px; margin-top: 0; line-height: 1.2; }
+.page-card h2 { color: #FFD700; font-size: 22px; margin-top: 28px; margin-bottom: 8px; }
+.page-card ul { padding-left: 22px; }
+.page-card li { margin-bottom: 6px; }
+
+.play-button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 12px 28px;
+    background: #11b519;
+    color: white !important;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.page-footer {
+    text-align: center;
+    padding: 10px 20px 40px;
+    font-size: 14px;
+}
+
+.page-footer a { margin: 0 10px; }
+.page-footer p { opacity: 0.8; line-height: 1.5; }
+
+@media (max-width: 600px) {
+    .page-card { margin: 16px 12px; padding: 20px; }
+    .page-card h1 { font-size: 26px; }
+}
+
+.ai-notice {
+    background: #FFD700;
+    color: #1a1a1a;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    padding: 14px 18px;
+    margin-bottom: 22px;
+    font-size: 17px;
+    line-height: 1.5;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}

@@ -1799,3 +1799,28 @@ body, .info-popup-content, #autocompleteDropdown {
         height: 25px;
     }
 }
+
+/* -------------------------------------------
+   PRIVACY POLICY LINK (bottom center of main menu)
+   ------------------------------------------- */
+
+.privacy-link-wrap {
+    position: fixed;
+    bottom: 8px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 1;
+    z-index: 10;
+    font-family: 'Cafeteria', Arial, Helvetica, sans-serif;
+}
+
+.privacy-link-wrap a {
+    color: #FFD700;
+    font-size: 15px;
+    text-shadow: 1px 1px 3px black;
+}
+
+body.game-active .privacy-link-wrap {
+    display: none;
+}

@@ -858,7 +858,7 @@ ${getModeName('classic')}: ${getModeResult('classic')}
 ${getModeName('plants')}: ${getModeResult('plants')}
 ${getModeName('zombies')}: ${getModeResult('zombies')}
 
-https://pvzheroeswordle.com`;
+https://pvzheroesdle.com`;
        
        resultsBox.textContent = resultsText;
        shareBox.appendChild(resultsBox);
