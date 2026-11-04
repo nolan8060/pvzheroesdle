@@ -4,7 +4,7 @@ Admiral Navy Bean,Admiral_Navy_BeanH.webp,Smarty,1,1,1,Bean,"Amphibious, Team-Up
 Aloesaurus,AloesaurusH.webp,Solar,5,4,7,"Cactus, Animal","Dino-Roar, Heal",Plant,Legendary,Triassic,
 Apotatosaurus,ApotatosaurusH.webp,Mega-Grow,6,5,5,"Root, Animal","Untrickable, Conjure, Dino-Roar",Plant,Legendary,Triassic,
 Apple-Saucer,Apple-SaucerH.webp,Solar,2,3,1,Fruit,Strikethrough,Plant,Uncommon,Galactic,
-Astro Vera,Astro_VeraH.webp,Solar,8,5,5,Cactus,,Plant,Legendary,Galactic,
+Astro Vera,Astro_VeraH.webp,Solar,8,5,5,Cactus,Heal,Plant,Legendary,Galactic,
 Astro-Shroom,Astro-ShroomH.webp,Kabloom,1,1,1,Mushroom,Bullseye,Plant,Super-Rare,Galactic,He's had good meetings with a lot of smaller asteroids. They really made an impression.
 Astrocado,AstrocadoH.webp,Solar,5,5,3,Fruit,Strikethrough,Plant,Legendary,Galactic,
 Astrocado Pit,Astrocado_PitH.webp,Solar,1,0,1,Seed,,Plant,Token,Token,Getting defeated is the pits.
@@ -44,7 +44,7 @@ Cherry Bomb,Cherry_BombH.webp,Kabloom,6,,,Berry,,Trick,Super-Rare,Premium,Explod
 Chilly Pepper,Chilly_PepperH.webp,Smarty,3,2,1,Fruit,Freeze,Plant,Rare,Premium,
 Chomper,ChomperH.webp,Solar,4,2,3,Flytrap,,Plant,Super-Rare,Premium,
 Clique Peas,Clique_PeasH.webp,Mega-Grow,1,2,2,"Bean, Pea",,Plant,Event,Event,
-Cob Cannon,Cob_CannonH.webp,Solar,6,4,6,"Corn, Fruit",Evolution,Plant,Legendary,Colossal,
+Cob Cannon,Cob_CannonH.webp,Solar,6,4,6,Corn,Evolution,Plant,Legendary,Colossal,
 Coffee Grounds,Coffee_GroundsH.webp,Mega-Grow,2,,,Bean,Double Strike,Environment,Uncommon,Galactic,"Nothing wakes you up in the morning like extra attacks on zombies. Well OK, coffee does."
 Cool Bean,Cool_BeanH.webp,Smarty,3,3,3,Bean,Freeze,Plant,Super-Rare,Galactic,
 Corn Dog,Corn_DogH.webp,Guardian,2,3,2,"Corn, Animal","Amphibious, Hunt",Plant,Event,Event,"Who's a good vegetable? You are! Yes, you are!"

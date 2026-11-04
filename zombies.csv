@@ -15,7 +15,7 @@ Barrel of Barrels,Barrel_of_BarrelsH.webp,Sneaky,2,,,Barrel,"Deadly, Conjure",Tr
 Barrel of Deadbeards,Barrel_of_DeadbeardsH.webp,Crazy,2,0,1,"Pirate, Barrel",,Zombie,Legendary,Premium,"No monkeys, just Zombies."
 Barrel Roller Zombie,Barrel_Roller_ZombieH.webp,Sneaky,4,3,3,"Pirate, Barrel",Deadly,Zombie,Rare,Premium,The second-most affordable way to transport Imps.
 Baseball Zombie,Baseball_ZombieH.webp,Hearty,1,1,1,Sports,,Zombie,Common,Basic,Home run. Running for your home. It's all the same to him.
-Beam Me Up,Beam_Me_UpH.webp,Brainy,2,,,Science,,Trick,Uncommon,Galactic,A sure way to get Space Cadet's attention.
+Beam Me Up,Beam_Me_UpH.webp,Brainy,2,,,Science,,Trick,Uncommon,Premium,A sure way to get Space Cadet's attention.
 Binary Stars,Binary_StarsH.webp,Crazy,5,3,3,Dancing,Gravestone,Zombie,Legendary,Galactic,"He's a Gemini and so is she. Which explains so much, right?"
 Biodome Botanist,Biodome_BotanistH.webp,Beastly,2,2,3,"Mustache, Science",,Zombie,Rare,Galactic,"Growing Plants in Space? Some of his fellow Zombies think he's crazy, but others appreciate the effort."
 Black Hole,Black_HoleH.webp,Hearty,1,,,,,Environment,Super-Rare,Galactic,Plants usually like being planted in holes. Black holes? Not so much.
@@ -96,7 +96,7 @@ Fun-Dead Raiser,Fun-Dead_RaiserH.webp,Brainy,3,,,Party,Draw,Trick,Common,Basic,P
 Gadget Scientist,Gadget_ScientistH.webp,Brainy,5,3,3,Science,Bonus Attack,Zombie,Rare,Premium,Wishes the Mad Chemist would stop copying his hair style.
 Galvanize,GalvanizeH.webp,Beastly,1,,,Superpower,,Trick,Super-Rare,Superpower,To protect and serve... brains.
 Gargantuar Mime,Gargantuar_MimeH.webp,Brainy,5,5,6,"Mime, Gargantuar",Bonus Attack,Zombie,Legendary,Colossal,"The Gargantuar Mime groans like any other zombie. He just does it silently, and in French."
-Gargantuar-Throwing Gargantuar,Gargantuar-Throwing_GargantuarH.webp,Beastly,7,6,6,"Pirate, Gargantuar",,Zombie,Legendary,Premium,"The ultimate, epic, last, absolutely final conclusion to the Zombie-throwing Zombie saga. ...or is it?"
+Gargantuar-Throwing Gargantuar,Gargantuar-Throwing_GargantuarH.webp,Beastly,7,6,6,"Pirate, Gargantuar",,Zombie,Legendary,Triassic,"The ultimate, epic, last, absolutely final conclusion to the Zombie-throwing Zombie saga. ...or is it?"
 Gargantuar-Throwing Imp,Gargantuar-Throwing_ImpH.webp,Crazy,4,1,2,Imp,,Zombie,Event,Event,"When lifting a Gargantuar, always bend at the knees. He learned this the hard way."
 Gargantuars Feast,Gargantuars_FeastH.webp,Crazy,11,,,"Gourmet, Gargantuar",,Trick,Legendary,Premium,This party doesn't make reservations.
 Gargologist,GargologistH.webp,Hearty,2,2,3,Science,,Zombie,Event,Event,"After years of studying Gargantuars in the wild, she's dedicated herself to telling the world they're just misunderstood gentle giants. So far, nobody's buying it."
@@ -129,7 +129,7 @@ Imposter,ImposterH.webp,Sneaky,1,2,1,"Mustache, Imp",Conjure,Zombie,Event,Event,
 In-Crypted,In-CryptedH.webp,Sneaky,1,,,Superpower,"Draw, Gravestone",Trick,Super-Rare,Superpower,"Requires eight characters, one upper case, a number, and the letter Z."
 Interdimensional Zombie,Interdimensional_ZombieH.webp,Brainy,1,2,2,Science,,Zombie,Legendary,Galactic,"In a parallel dimension, this zombie is a Space Pirate. In another he's a Trash Can Zombie. Turns out, little choices in life can make a big difference."
 Intergalactic Warlord,Intergalactic_WarlordH.webp,Hearty,5,2,2,"Mustache, Pirate",,Zombie,Legendary,Galactic,"In space Zombie circles, he's a very powerful figure. Just don't talk about him in front of Huge-Gigantacus. There's some jealousy there."
-Interstellar Bounty Hunter,Interstellar_Bounty_HunterH.webp,Beastly,4,4,4,"Science, Pirate","Frenzy, Hunt",Zombie,Legendary,Galactic,"If you have a bounty on your head, she won't stop until she eats your brains. It's not personal. It's just business."
+Interstellar Bounty Hunter,Interstellar_Bounty_HunterH.webp,Beastly,4,4,4,"Science, Pirate","Frenzy, Hunt, Draw",Zombie,Legendary,Galactic,"If you have a bounty on your head, she won't stop until she eats your brains. It's not personal. It's just business."
 Iron Boarder,Iron_BoarderH.webp,Brainy,1,2,3,"Sports, Imp, Superpower",Bullseye,Zombie,Super-Rare,Superpower,"Working for a Huge-Gigantacus isn't the worst job he's ever had. It comes with a 401Z plan, which is more than what most Zombie employers offer."
 Jester,JesterH.webp,Crazy,3,1,5,"Dancing, Party",Gravestone,Zombie,Rare,Premium,The joke's on you!
 Jurassic Fossilhead,Jurassic_FossilheadH.webp,Hearty,2,2,3,"Professional, History",Untrickable,Zombie,Super-Rare,Colossal,"For him, Fossilheading isn't just a hobby. It's a career."
