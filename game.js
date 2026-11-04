@@ -370,6 +370,11 @@ function guess() {
        addGuessRow(matches, guessedCard, false); // false = show animation
        guessHistory.push(guessedCard);
 
+       // Save progress after every guess so a refresh keeps the board (daily modes only)
+       if (window.currentGameMode !== 'endless') {
+           saveGameState(window.currentGameMode);
+       }
+
        if (guessHistory.length === 1 && hardMode) {
            const btn = document.getElementById('hardModeBtn');
            if (btn) {
