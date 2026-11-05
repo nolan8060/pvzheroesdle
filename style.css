@@ -1824,3 +1824,83 @@ body, .info-popup-content, #autocompleteDropdown {
 body.game-active .privacy-link-wrap {
     display: none;
 }
+
+/* -------------------------------------------
+   MY OTHER PROJECTS BUTTON + POPUP
+   ------------------------------------------- */
+
+.icon-button.projects-btn {
+    background-color: white !important;
+    border: 3px solid black !important;
+}
+
+.icon-button.projects-btn img {
+    width: 80%;
+    height: 80%;
+    object-fit: contain;
+}
+
+.project-link {
+    display: inline-block;
+    margin-top: 6px;
+    padding: 10px 24px;
+    background: #11b519;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: 'Cafeteria', Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.doraemon-blue {
+    color: #2986cc;
+}
+
+.project-thumbnail {
+    display: block;
+    width: 100%;
+    max-width: 520px;
+    height: auto;
+    margin: 0 auto 20px;
+    border-radius: 12px;
+    border: 3px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.5);
+}
+
+.project-thumbnail-link {
+    display: block;
+    width: 100%;
+    max-width: 520px;
+    margin: 0 auto 20px;
+}
+
+.project-thumbnail-link .project-thumbnail {
+    margin: 0 auto;
+    transition: transform 0.2s ease;
+}
+
+.project-thumbnail-link:hover .project-thumbnail {
+    transform: scale(1.04);
+}
+
+/* Doraemon Survival description: larger text */
+.info-section.project-card p,
+.info-section.project-card ul li {
+    font-size: 21px;
+    line-height: 1.55;
+}
+
+.info-section.project-card p:first-child {
+    font-size: 26px;
+}
+
+@media (max-width: 768px) {
+    .info-section.project-card p,
+    .info-section.project-card ul li {
+        font-size: 17px;
+    }
+
+    .info-section.project-card p:first-child {
+        font-size: 21px;
+    }
+}
