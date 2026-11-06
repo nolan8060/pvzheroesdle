@@ -1904,3 +1904,16 @@ body.game-active .privacy-link-wrap {
         font-size: 21px;
     }
 }
+
+.project-subtitle {
+    font-family: 'Cafeteria', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    margin: 0 0 4px;
+    opacity: 0.85;
+}
+
+.info-title.project-title {
+    margin-top: 0;
+}
